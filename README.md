@@ -14,9 +14,10 @@ python -m doctest 0001_two_sum.py
 
 `problems/`
 
-| # | Problem | Solution | Difficulty |
-| - | ------- | -------- | ---------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | C++, Python | Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Python | Easy |
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Python | Easy |
+| # | Problem | Difficulty |
+| - | ------- | ---------- |
+| 1 | Two Sum | Easy |
+| 2 | Add Two Numbers | Medium |
+| 3 | Longest Substring Without Repeating Characters | Medium |
+| 7 | Reverse Integer | Easy |
 
