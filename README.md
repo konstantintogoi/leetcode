@@ -14,10 +14,11 @@ python -m doctest 0001_two_sum.py
 
 `problems/`
 
-| # | Problem | Difficulty |
-| - | ------- | ---------- |
-| 1 | Two Sum | Easy |
-| 2 | Add Two Numbers | Medium |
-| 3 | Longest Substring Without Repeating Characters | Medium |
-| 7 | Reverse Integer | Easy |
+| # | Difficulty | Problem    |
+| - | ---------- | ---------- |
+| 7 | Easy       | Reverse Integer |
+| 4 | Hard       | Median of Two Sorted Arrays |
+| 3 | Medium     | Longest Substring Without Repeating Characters |
+| 2 | Medium     | Add Two Numbers |
+| 1 | Easy       | Two Sum |
 
