@@ -14,12 +14,13 @@ python -m doctest 0001_two_sum.py
 
 `problems/`
 
-| # | Difficulty | Problem    |
-| - | ---------- | ---------- |
-| 7 | Easy       | Reverse Integer |
-| 5 | Medium     | Longest Palindromic Substring |
-| 4 | Hard       | Median of Two Sorted Arrays |
-| 3 | Medium     | Longest Substring Without Repeating Characters |
-| 2 | Medium     | Add Two Numbers |
-| 1 | Easy       | Two Sum |
+|    # | Difficulty | Problem                                        |
+| ---- | ---------- | ---------------------------------------------- |
+|  169 | Easy       | Majority Element                               |
+|    7 | Easy       | Reverse Integer                                |
+|    5 | Medium     | Longest Palindromic Substring                  |
+|    4 | Hard       | Median of Two Sorted Arrays                    |
+|    3 | Medium     | Longest Substring Without Repeating Characters |
+|    2 | Medium     | Add Two Numbers                                |
+|    1 | Easy       | Two Sum                                        |
 
