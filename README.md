@@ -16,6 +16,7 @@ python -m doctest 0001_two_sum.py
 
 |    # | Difficulty | Problem                                        |
 | ---- | ---------- | ---------------------------------------------- |
+|  416 | Medium     | Partition Equal Subset Sum                     |
 |  169 | Easy       | Majority Element                               |
 |    7 | Easy       | Reverse Integer                                |
 |    5 | Medium     | Longest Palindromic Substring                  |
