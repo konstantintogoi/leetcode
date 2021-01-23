@@ -19,6 +19,7 @@ python -m doctest 0001_two_sum.py
 |  933 | Easy       | Cousins in Binary Tree                         |
 |  416 | Medium     | Partition Equal Subset Sum                     |
 |  169 | Easy       | Majority Element                               |
+|   26 | Easy       | Remove Duplicates from Sorted Array            |
 |    7 | Easy       | Reverse Integer                                |
 |    5 | Medium     | Longest Palindromic Substring                  |
 |    4 | Hard       | Median of Two Sorted Arrays                    |
