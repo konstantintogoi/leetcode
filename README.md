@@ -21,6 +21,7 @@ python -m doctest 0001_two_sum.py
 |  169 | Easy       | Majority Element                               |
 |   26 | Easy       | Remove Duplicates from Sorted Array            |
 |    7 | Easy       | Reverse Integer                                |
+|    6 | Medium     | ZigZag Conversion                              |
 |    5 | Medium     | Longest Palindromic Substring                  |
 |    4 | Hard       | Median of Two Sorted Arrays                    |
 |    3 | Medium     | Longest Substring Without Repeating Characters |
