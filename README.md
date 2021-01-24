@@ -20,6 +20,7 @@ python -m doctest 0001_two_sum.py
 |  416 | Medium     | Partition Equal Subset Sum                     |
 |  169 | Easy       | Majority Element                               |
 |   26 | Easy       | Remove Duplicates from Sorted Array            |
+|    8 | Medium     | String to Integer (atoi)                       |
 |    7 | Easy       | Reverse Integer                                |
 |    6 | Medium     | ZigZag Conversion                              |
 |    5 | Medium     | Longest Palindromic Substring                  |
