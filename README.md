@@ -16,7 +16,8 @@ python -m doctest 0001_two_sum.py
 
 |    # | Difficulty | Problem                                        |
 | ---- | ---------- | ---------------------------------------------- |
-|  933 | Easy       | Cousins in Binary Tree                         |
+| 1431 | Easy       | Kids With the Greatest Number of Candies       |
+|  993 | Easy       | Cousins in Binary Tree                         |
 |  416 | Medium     | Partition Equal Subset Sum                     |
 |  169 | Easy       | Majority Element                               |
 |   26 | Easy       | Remove Duplicates from Sorted Array            |
