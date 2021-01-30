@@ -22,6 +22,7 @@ python -m doctest 0001_two_sum.py
 |  416 | Medium     | Partition Equal Subset Sum                          |
 |  169 | Easy       | Majority Element                                    |
 |   26 | Easy       | Remove Duplicates from Sorted Array                 |
+|   12 | Medium     | Integer to Roman                                    |
 |   11 | Medium     | Container With Most Water                           |
 |   10 | Hard       | Regular Expression Matching                         |
 |    9 | Easy       | Palindrome Number                                   |
