@@ -23,6 +23,7 @@ python -m doctest 0001_two_sum.py
 |  191 | Easy       | Number of 1 Bits                                    |
 |  169 | Easy       | Majority Element                                    |
 |   26 | Easy       | Remove Duplicates from Sorted Array                 |
+|   21 | Easy       | Merge Two Sorted Lists                              |
 |   18 | Medium     | 4Sum                                                |
 |   17 | Medium     | Letter Combinations of a Phone Number               |
 |   16 | Medium     | 3Sum Closest                                        |
