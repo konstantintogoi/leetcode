@@ -22,6 +22,7 @@ python -m doctest 0001_two_sum.py
 |  416 | Medium     | Partition Equal Subset Sum                          |
 |  191 | Easy       | Number of 1 Bits                                    |
 |  169 | Easy       | Majority Element                                    |
+|   28 | Easy       | Implement strStr()                                  |
 |   27 | Easy       | Remove Element                                      |
 |   26 | Easy       | Remove Duplicates from Sorted Array                 |
 |   21 | Easy       | Merge Two Sorted Lists                              |
