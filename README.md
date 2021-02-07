@@ -28,6 +28,7 @@ python -m doctest 0001_two_sum.py
 |   26 | Easy       | Remove Duplicates from Sorted Array                 |
 |   21 | Easy       | Merge Two Sorted Lists                              |
 |   20 | Easy       | Valid Parentheses                                   |
+|   19 | Medium     | Remove Nth Node From End of List                    |
 |   18 | Medium     | 4Sum                                                |
 |   17 | Medium     | Letter Combinations of a Phone Number               |
 |   16 | Medium     | 3Sum Closest                                        |
