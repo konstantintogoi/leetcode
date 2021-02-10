@@ -27,6 +27,7 @@ python -m doctest 0001_two_sum.py
 |   27 | Easy       | Remove Element                                      |
 |   26 | Easy       | Remove Duplicates from Sorted Array                 |
 |   24 | Medium     | Swap Nodes in Pairs                                 |
+|   23 | Hard       | Merge k Sorted Lists                                |
 |   22 | Medimum    | Generate Parentheses                                |
 |   21 | Easy       | Merge Two Sorted Lists                              |
 |   20 | Easy       | Valid Parentheses                                   |
