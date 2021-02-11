@@ -26,6 +26,7 @@ python -m doctest 0001_two_sum.py
 |   28 | Easy       | Implement strStr()                                  |
 |   27 | Easy       | Remove Element                                      |
 |   26 | Easy       | Remove Duplicates from Sorted Array                 |
+|   25 | Hard       | Reverse Nodes in k-Group                            |
 |   24 | Medium     | Swap Nodes in Pairs                                 |
 |   23 | Hard       | Merge k Sorted Lists                                |
 |   22 | Medimum    | Generate Parentheses                                |
