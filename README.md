@@ -23,6 +23,7 @@ python -m doctest 0001_two_sum.py
 |  191 | Easy       | Number of 1 Bits                                    |
 |  169 | Easy       | Majority Element                                    |
 |   53 | Easy       | Maximum Subarray                                    |
+|   38 | Easy       | Count and Say                                       |
 |   35 | Easy       | Search Insert Position                              |
 |   28 | Easy       | Implement strStr()                                  |
 |   27 | Easy       | Remove Element                                      |
