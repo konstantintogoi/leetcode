@@ -22,6 +22,7 @@ python -m doctest 0001_two_sum.py
 |  416 | Medium     | Partition Equal Subset Sum                          |
 |  191 | Easy       | Number of 1 Bits                                    |
 |  169 | Easy       | Majority Element                                    |
+|   67 | Easy       | Add Binary                                          |
 |   66 | Easy       | Plus One                                            |
 |   58 | Easy       | Length of Last Word                                 |
 |   53 | Easy       | Maximum Subarray                                    |
