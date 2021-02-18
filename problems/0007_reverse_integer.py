@@ -1,4 +1,7 @@
-"""Solution of "Reverse Integer" problem at https://leetcode.com/problems/reverse-integer/"""
+"""
+Solution of "Reverse Integer" problem at
+https://leetcode.com/problems/reverse-integer/
+"""
 
 MAX = int((2**31 - 1)/10)  # 2147483647 / 10
 MIN = int(-2 ** 31 / 10)  # -2147483648 / 10

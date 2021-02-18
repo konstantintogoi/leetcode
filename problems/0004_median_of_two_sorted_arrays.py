@@ -6,7 +6,11 @@ from typing import List
 
 
 class Solution:
-    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+    def findMedianSortedArrays(
+        self,
+        nums1: List[int],
+        nums2: List[int],
+    ) -> float:
         """Median of Two Sorted Arrays.
 
         >>> Solution().findMedianSortedArrays([1, 3], [2])
@@ -27,6 +31,8 @@ class Solution:
         2
         >>> Solution().findMedianSortedArrays([1], [2, 3, 4])
         2.5
+        >>> Solution().findMedianSortedArrays([1, 1, 3, 3], [1, 1, 3, 3])
+        2.0
 
         """
         n, m = len(nums1), len(nums2)
@@ -51,7 +57,7 @@ class Solution:
                 return (nums1[mid] + nums1[mid + 1]) / 2
 
         for i in range(n):
-            j = self.search(nums1[i], nums2, 0, m)
+            j = self.pos(nums2, nums1[i])
             if (j < m and nums1[i] == nums2[j]):
                 j += 1
             if i + j == mid:
@@ -62,11 +68,10 @@ class Solution:
                 elif i + 1 < n:
                     return (nums1[i] + nums1[i + 1]) / 2
                 else:
-
                     return (nums1[i] + nums2[j]) / 2
 
         for j in range(m):
-            i = self.search(nums2[j], nums1, 0, n)
+            i = self.pos(nums1, nums2[j])
             #if (i < n and nums1[i] == nums2[j]):
             #    i += 1
             if i + j == mid:
@@ -79,54 +84,17 @@ class Solution:
                 else:
                     return (nums2[j] + nums1[i]) / 2
 
+        return 2
 
-    def search(self, num, nums, l, r):
-        """Search position in a sorted array.
+    def pos(self, nums: List[int], target: int) -> int:
+        l, r = -1, len(nums)
 
-        >>> Solution().search(3, [2], 0, 1)
-        1
-        >>> Solution().search(-1, [1, 3], 0, 2)
-        0
-        >>> Solution().search(1, [1, 3], 0, 2)
-        0
-        >>> Solution().search(3, [1, 3], 0, 2)
-        1
-        >>> Solution().search(2, [1, 3], 0, 2)
-        1
-        >>> Solution().search(4, [1, 3], 0, 2)
-        2
-        >>> Solution().search(-1, [1, 3, 5], 0, 3)
-        0
-        >>> Solution().search(1, [1, 3, 5], 0, 3)
-        0
-        >>> Solution().search(2, [1, 3, 5], 0, 3)
-        1
-        >>> Solution().search(3, [1, 3, 5], 0, 3)
-        1
-        >>> Solution().search(4, [1, 3, 5], 0, 3)
-        2
-        >>> Solution().search(5, [1, 3, 5], 0, 3)
-        2
-        >>> Solution().search(6, [1, 3, 5], 0, 3)
-        3
+        while l + 1 != r:
+            mid = (l + r) // 2
+            if nums[mid] < target:
+                l = mid
+            else:
+                r = mid
 
-        """
-        if l >= r - 1:
-            return l if num <= nums[l] else r
-
-        if (l == r - 2) and (nums[l] < num <= nums[l + 1]):
-            return l + 1
-        if (l == r - 2) and nums[l] >= num:
-            return l
-        if (l == r - 2) and  num > nums[l + 1]:
-            return r
-
-        mid = (l + r - 1) // 2
-
-        if nums[mid] < num:
-            return self.search(num, nums, mid, r)
-        elif nums[mid] > num:
-            return self.search(num, nums, l, mid + 1)
-        else:
-            return mid
+        return r
 

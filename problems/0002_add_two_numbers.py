@@ -1,4 +1,7 @@
-"""Solution of "Add Two Numbers" problem at https://leetcode.com/problems/add-two-numbers/."""
+"""
+Solution of "Add Two Numbers"
+problem at https://leetcode.com/problems/add-two-numbers/.
+"""
 
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -20,12 +23,14 @@ class ListNode:
         return True
 
     def __repr__(self):
-        vals = []
-        node = self
+        if self.val is None:
+            return '[]'
+        vals, node = [self.val], self.next
         while node:
-            vals.append(str(node.val))
+            vals.append(node.val)
             node = node.next
-        return ' '.join(vals)
+        return repr(vals)
+
 
 
 class Solution:
@@ -36,16 +41,16 @@ class Solution:
         ... ListNode(2, next=ListNode(4, next=ListNode(3))),
         ... ListNode(5, next=ListNode(6, next=ListNode(4)))
         ... )
-        7 0 8
+        [7, 0, 8]
         >>> 
         >>> Solution().addTwoNumbers(ListNode(5), ListNode(5))
-        0 1
+        [0, 1]
         >>> 
         >>> Solution().addTwoNumbers(
         ...     ListNode(1),
         ...     ListNode(9, next=ListNode(9))
         ... )
-        0 0 1
+        [0, 0, 1]
 
         """
         carry_flag = 0

@@ -8,8 +8,9 @@ class ListNode:
         self.next = next
 
     def __repr__(self):
-        vals = []
-        node = self
+        if self.val is None:
+            return '[]'
+        vals, node = [self.val], self.next
         while node:
             vals.append(node.val)
             node = node.next
@@ -25,12 +26,17 @@ class Solution:
         ...     ListNode(1, ListNode(3, ListNode(4))),
         ... )
         [1, 1, 2, 3, 4, 4]
-        >>> Solution().mergeTwoLists(ListNode(), ListNode())
+        >>> Solution().mergeTwoLists(ListNode(None), ListNode(None))
         []
-        >>> Solution().mergeTwoLists(ListNode(), ListNode(0))
+        >>> Solution().mergeTwoLists(ListNode(None), ListNode(0))
         [0]
 
         """
+        if l1.val is None:
+            return l2
+        if l2.val is None:
+            return l1
+
         l = ListNode()
         root = l
 

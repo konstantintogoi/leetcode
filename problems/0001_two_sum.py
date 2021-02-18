@@ -1,4 +1,7 @@
-"""Solution of "Two Sum" problem at https://leetcode.com/problems/two-sum/."""
+"""
+Solution of "Two Sum" problem at
+https://leetcode.com/problems/two-sum/.
+"""
 from typing import List
 
 

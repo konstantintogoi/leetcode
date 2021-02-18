@@ -8,8 +8,9 @@ class ListNode:
         self.next = next
 
     def __repr__(self):
-        vals = []
-        node = self
+        if self.val is None:
+            return '[]'
+        vals, node = [self.val], self.next
         while node:
             vals.append(node.val)
             node = node.next
