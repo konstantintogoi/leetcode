@@ -25,6 +25,7 @@ python -m doctest 0001_two_sum.py
 |  100 | Easy       | Same Tree                                           |
 |   88 | Easy       | Merge Sorted Array                                  |
 |   83 | Easy       | Remove Duplicates from Sorted List                  |
+|   70 | Easy       | Climbing Stairs                                     |
 |   69 | Easy       | Sqrt(x)                                             |
 |   67 | Easy       | Add Binary                                          |
 |   66 | Easy       | Plus One                                            |
