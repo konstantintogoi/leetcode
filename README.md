@@ -33,6 +33,7 @@ python -m doctest 0001_two_sum.py
 |   53 | Easy       | Maximum Subarray                                    |
 |   38 | Easy       | Count and Say                                       |
 |   35 | Easy       | Search Insert Position                              |
+|   29 | Medium     | Divide Two Integers                                 |
 |   28 | Easy       | Implement strStr()                                  |
 |   27 | Easy       | Remove Element                                      |
 |   26 | Easy       | Remove Duplicates from Sorted Array                 |
