@@ -22,14 +22,18 @@ class Solution:
         3
 
         """
-        root = 0
+        l = 0
+        r = x + 1
 
-        while (root + 1) * (root + 1) <= x:
-            root += 1
-            shift = 2
-            while (root + shift) * (root + shift) <= x:
-                root += shift
-                shift *= 2
+        while l + 1 != r:
+            mid = (l + r) // 2
+            mid2 = mid * mid
+            if mid2 < x:
+                l = mid
+            elif mid2 > x:
+                r = mid
+            else:
+                return mid
 
-        return root
+        return l
 
