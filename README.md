@@ -18,6 +18,7 @@ python -m doctest 0001_two_sum.py
 | ---- | ---------- | --------------------------------------------------- |
 | 1432 | Medium     | Max Difference You Can Get From Changing an Integer |
 | 1431 | Easy       | Kids With the Greatest Number of Candies            |
+| 1165 | Easy       | Single-Row Keyboard                                 |
 |  993 | Easy       | Cousins in Binary Tree                              |
 |  416 | Medium     | Partition Equal Subset Sum                          |
 |  191 | Easy       | Number of 1 Bits                                    |
