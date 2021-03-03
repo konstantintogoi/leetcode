@@ -20,6 +20,7 @@ python -m doctest 0001_two_sum.py
 | 1431 | Easy       | Kids With the Greatest Number of Candies            |
 | 1165 | Easy       | Single-Row Keyboard                                 |
 |  993 | Easy       | Cousins in Binary Tree                              |
+|  575 | Easy       | Distribute Candies                                  |
 |  416 | Medium     | Partition Equal Subset Sum                          |
 |  191 | Easy       | Number of 1 Bits                                    |
 |  169 | Easy       | Majority Element                                    |
