@@ -22,6 +22,7 @@ python -m doctest 0001_two_sum.py
 |  993 | Easy       | Cousins in Binary Tree                              |
 |  575 | Easy       | Distribute Candies                                  |
 |  416 | Medium     | Partition Equal Subset Sum                          |
+|  268 | Easy       | Missing Number                                      |
 |  191 | Easy       | Number of 1 Bits                                    |
 |  169 | Easy       | Majority Element                                    |
 |  160 | Easy       | Intersection of Two Linked Lists                    |
