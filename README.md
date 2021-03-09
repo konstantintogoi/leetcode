@@ -22,6 +22,7 @@ python -m doctest 0001_two_sum.py
 |  993 | Easy       | Cousins in Binary Tree                              |
 |  645 | Easy       | Set Mismatch                                        |
 |  637 | Easy       | Average of Levels in Binary Tree                    |
+|  623 | Medium     | Add One Row to Tree                                 |
 |  575 | Easy       | Distribute Candies                                  |
 |  416 | Medium     | Partition Equal Subset Sum                          |
 |  268 | Easy       | Missing Number                                      |
