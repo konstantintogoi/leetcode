@@ -20,6 +20,7 @@ python -m doctest 0001_two_sum.py
 | 1431 | Easy       | Kids With the Greatest Number of Candies            |
 | 1165 | Easy       | Single-Row Keyboard                                 |
 |  993 | Easy       | Cousins in Binary Tree                              |
+|  706 | Easy       | Design HashMap                                      |
 |  645 | Easy       | Set Mismatch                                        |
 |  637 | Easy       | Average of Levels in Binary Tree                    |
 |  623 | Medium     | Add One Row to Tree                                 |
