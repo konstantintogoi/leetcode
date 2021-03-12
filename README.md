@@ -22,6 +22,7 @@ python -m doctest 0001_two_sum.py
 |  993 | Easy       | Cousins in Binary Tree                              |
 |  820 | Medium     | Short Encoding of Words                             |
 |  706 | Easy       | Design HashMap                                      |
+|  669 | Medium     | Trim a Binary Search Tree                           |
 |  645 | Easy       | Set Mismatch                                        |
 |  637 | Easy       | Average of Levels in Binary Tree                    |
 |  623 | Medium     | Add One Row to Tree                                 |
