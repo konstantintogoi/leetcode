@@ -20,6 +20,7 @@ python -m doctest 0001_two_sum.py
 | 1461 | Medium     | Check If a String Contains All Binary Codes of Size K |
 | 1432 | Medium     | Max Difference You Can Get From Changing an Integer   |
 | 1431 | Easy       | Kids With the Greatest Number of Candies              |
+| 1332 | Easy       | Remove Palindromic Subsequences                       |
 | 1165 | Easy       | Single-Row Keyboard                                   |
 |  993 | Easy       | Cousins in Binary Tree                                |
 |  820 | Medium     | Short Encoding of Words                               |
