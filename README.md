@@ -16,6 +16,7 @@ python -m doctest 0001_two_sum.py
 
 |    # | Difficulty | Problem                                               |
 | ---- | ---------- | ----------------------------------------------------- |
+| 1721 | Medium     | Swapping Nodes in a Linked List                       |
 | 1461 | Medium     | Check If a String Contains All Binary Codes of Size K |
 | 1432 | Medium     | Max Difference You Can Get From Changing an Integer   |
 | 1431 | Easy       | Kids With the Greatest Number of Candies              |
