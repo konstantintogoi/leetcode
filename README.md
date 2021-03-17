@@ -23,6 +23,7 @@ python -m doctest 0001_two_sum.py
 | 1332 | Easy       | Remove Palindromic Subsequences                       |
 | 1165 | Easy       | Single-Row Keyboard                                   |
 |  993 | Easy       | Cousins in Binary Tree                                |
+|  823 | Medium     | Binary Trees With Factors                             |
 |  820 | Medium     | Short Encoding of Words                               |
 |  706 | Easy       | Design HashMap                                        |
 |  669 | Medium     | Trim a Binary Search Tree                             |
