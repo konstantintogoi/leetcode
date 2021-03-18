@@ -26,6 +26,7 @@ python -m doctest 0001_two_sum.py
 |  823 | Medium     | Binary Trees With Factors                             |
 |  820 | Medium     | Short Encoding of Words                               |
 |  706 | Easy       | Design HashMap                                        |
+|  704 | Easy       | Binary Search                                         |
 |  669 | Medium     | Trim a Binary Search Tree                             |
 |  645 | Easy       | Set Mismatch                                          |
 |  637 | Easy       | Average of Levels in Binary Tree                      |
