@@ -34,6 +34,7 @@ python -m doctest 0001_two_sum.py
 |  623 | Medium     | Add One Row to Tree                                   |
 |  575 | Easy       | Distribute Candies                                    |
 |  416 | Medium     | Partition Equal Subset Sum                            |
+|  374 | Easy       | Guess Number Higher or Lower                          |
 |  322 | Medium     | Coin Change                                           |
 |  268 | Easy       | Missing Number                                        |
 |  246 | Easy       | Strobogrammatic Number                                |
