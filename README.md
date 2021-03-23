@@ -25,6 +25,7 @@ python -m doctest 0001_two_sum.py
 | 1198 | Medium     | Find Smallest Common Element in All Rows              |
 | 1165 | Easy       | Single-Row Keyboard                                   |
 |  993 | Easy       | Cousins in Binary Tree                                |
+|  966 | Medium     | Vower Spellchecker                                    |
 |  841 | Medium     | Keys and Rooms                                        |
 |  823 | Medium     | Binary Trees With Factors                             |
 |  820 | Medium     | Short Encoding of Words                               |
