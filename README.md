@@ -26,6 +26,7 @@ python -m doctest 0001_two_sum.py
 | 1165 | Easy       | Single-Row Keyboard                                   |
 |  993 | Easy       | Cousins in Binary Tree                                |
 |  966 | Medium     | Vower Spellchecker                                    |
+|  916 | Medium     | Word Subsets                                          |
 |  870 | Medium     | Advantage Shuffle                                     |
 |  869 | Medium     | Reordered Power of 2                                  |
 |  841 | Medium     | Keys and Rooms                                        |
