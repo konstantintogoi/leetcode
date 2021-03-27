@@ -39,6 +39,7 @@ python -m doctest 0001_two_sum.py
 |  637 | Easy       | Average of Levels in Binary Tree                      |
 |  623 | Medium     | Add One Row to Tree                                   |
 |  575 | Easy       | Distribute Candies                                    |
+|  536 | Medium     | Construct Binary Tree from String                     |
 |  416 | Medium     | Partition Equal Subset Sum                            |
 |  376 | Medium     | Wiggle Subsequence                                    |
 |  374 | Easy       | Guess Number Higher or Lower                          |
