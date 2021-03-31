@@ -24,6 +24,7 @@ python -m doctest 0001_two_sum.py
 | 1332 | Easy       | Remove Palindromic Subsequences                       |
 | 1198 | Medium     | Find Smallest Common Element in All Rows              |
 | 1165 | Easy       | Single-Row Keyboard                                   |
+| 1136 | Medium     | Parallel Courses                                      |
 |  993 | Easy       | Cousins in Binary Tree                                |
 |  966 | Medium     | Vower Spellchecker                                    |
 |  916 | Medium     | Word Subsets                                          |
