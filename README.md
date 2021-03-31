@@ -41,6 +41,7 @@ python -m doctest 0001_two_sum.py
 |  623 | Medium     | Add One Row to Tree                                   |
 |  575 | Easy       | Distribute Candies                                    |
 |  536 | Medium     | Construct Binary Tree from String                     |
+|  535 | Medium     | Encode and Decode TinyURL                             |
 |  423 | Medium     | Reconstruct Original Digits from English              |
 |  416 | Medium     | Partition Equal Subset Sum                            |
 |  376 | Medium     | Wiggle Subsequence                                    |
