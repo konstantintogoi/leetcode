@@ -27,6 +27,7 @@ python -m doctest 0001_two_sum.py
 | 1136 | Medium     | Parallel Courses                                      |
 |  993 | Easy       | Cousins in Binary Tree                                |
 |  966 | Medium     | Vower Spellchecker                                    |
+|  923 | Medium     | 3Sum With Multiplicity                                |
 |  916 | Medium     | Word Subsets                                          |
 |  870 | Medium     | Advantage Shuffle                                     |
 |  869 | Medium     | Reordered Power of 2                                  |
