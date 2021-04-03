@@ -26,6 +26,7 @@ python -m doctest 0001_two_sum.py
 | 1165 | Easy       | Single-Row Keyboard                                   |
 | 1136 | Medium     | Parallel Courses                                      |
 |  993 | Easy       | Cousins in Binary Tree                                |
+|  971 | Medium     | Flip Binary Tree To Match Preorder Traversal          |
 |  966 | Medium     | Vower Spellchecker                                    |
 |  923 | Medium     | 3Sum With Multiplicity                                |
 |  916 | Medium     | Word Subsets                                          |
