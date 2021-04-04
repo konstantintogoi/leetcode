@@ -68,6 +68,7 @@ python -m doctest 0001_two_sum.py
 |   43 | Medium     | Multiply Strings                                      |
 |   38 | Easy       | Count and Say                                         |
 |   35 | Easy       | Search Insert Position                                |
+|   32 | Hard       | Longest Valid Parentheses                             |
 |   31 | Medium     | Next Permutation                                      |
 |   29 | Medium     | Divide Two Integers                                   |
 |   28 | Easy       | Implement strStr()                                    |
