@@ -42,6 +42,7 @@ python -m doctest 0001_two_sum.py
 |  645 | Easy       | Set Mismatch                                          |
 |  637 | Easy       | Average of Levels in Binary Tree                      |
 |  623 | Medium     | Add One Row to Tree                                   |
+|  622 | Medium     | Design Circular Queue                                 |
 |  575 | Easy       | Distribute Candies                                    |
 |  536 | Medium     | Construct Binary Tree from String                     |
 |  535 | Medium     | Encode and Decode TinyURL                             |
