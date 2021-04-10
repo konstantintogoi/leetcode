@@ -35,6 +35,7 @@ python -m doctest 0001_two_sum.py
 |  841 | Medium     | Keys and Rooms                                        |
 |  823 | Medium     | Binary Trees With Factors                             |
 |  820 | Medium     | Short Encoding of Words                               |
+|  775 | Medium     | Global and Local Inversions                           |
 |  706 | Easy       | Design HashMap                                        |
 |  704 | Easy       | Binary Search                                         |
 |  669 | Medium     | Trim a Binary Search Tree                             |
