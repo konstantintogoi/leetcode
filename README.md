@@ -28,6 +28,7 @@ python -m doctest 0001_two_sum.py
 |  993 | Easy       | Cousins in Binary Tree                                |
 |  971 | Medium     | Flip Binary Tree To Match Preorder Traversal          |
 |  966 | Medium     | Vower Spellchecker                                    |
+|  936 | Hard       | Stamping The Sequence                                 |
 |  923 | Medium     | 3Sum With Multiplicity                                |
 |  916 | Medium     | Word Subsets                                          |
 |  870 | Medium     | Advantage Shuffle                                     |
