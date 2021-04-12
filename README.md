@@ -18,6 +18,7 @@ python -m doctest 0001_two_sum.py
 | ---- | ---------- | ----------------------------------------------------- |
 | 1721 | Medium     | Swapping Nodes in a Linked List                       |
 | 1704 | Easy       | Determine if String Halves Are Alike                  |
+| 1551 | Medium     | Minimum Operations to Make Array Equal                |
 | 1461 | Medium     | Check If a String Contains All Binary Codes of Size K |
 | 1432 | Medium     | Max Difference You Can Get From Changing an Integer   |
 | 1431 | Easy       | Kids With the Greatest Number of Candies              |
