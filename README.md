@@ -42,6 +42,7 @@ python -m doctest 0001_two_sum.py
 |  706 | Easy       | Design HashMap                                        |
 |  704 | Easy       | Binary Search                                         |
 |  669 | Medium     | Trim a Binary Search Tree                             |
+|  667 | Medium     | Beautiful Arrangement II                              |
 |  647 | Medium     | Palindromic Substrings                                |
 |  645 | Easy       | Set Mismatch                                          |
 |  637 | Easy       | Average of Levels in Binary Tree                      |
