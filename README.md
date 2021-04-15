@@ -24,6 +24,7 @@ python -m doctest 0001_two_sum.py
 | 1431 | Easy       | Kids With the Greatest Number of Candies              |
 | 1396 | Medium     | Design Underground System                             |
 | 1332 | Easy       | Remove Palindromic Subsequences                       |
+| 1302 | Medium     | Deepest Leaves Sum                                    |
 | 1198 | Medium     | Find Smallest Common Element in All Rows              |
 | 1165 | Easy       | Single-Row Keyboard                                   |
 | 1136 | Medium     | Parallel Courses                                      |
