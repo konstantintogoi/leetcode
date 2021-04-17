@@ -28,6 +28,7 @@ python -m doctest 0001_two_sum.py
 | 1198 | Medium     | Find Smallest Common Element in All Rows              |
 | 1165 | Easy       | Single-Row Keyboard                                   |
 | 1136 | Medium     | Parallel Courses                                      |
+| 1074 | Hard       | Number of Submatrices That Sum to Target              |
 |  993 | Easy       | Cousins in Binary Tree                                |
 |  971 | Medium     | Flip Binary Tree To Match Preorder Traversal          |
 |  966 | Medium     | Vower Spellchecker                                    |
