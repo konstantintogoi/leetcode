@@ -81,6 +81,7 @@ python -m doctest 0001_two_sum.py
 |   43 | Medium     | Multiply Strings                                      |
 |   38 | Easy       | Count and Say                                         |
 |   35 | Easy       | Search Insert Position                                |
+|   33 | Medium     | Search in Rotated Sorted Array                        |
 |   32 | Hard       | Longest Valid Parentheses                             |
 |   31 | Medium     | Next Permutation                                      |
 |   29 | Medium     | Divide Two Integers                                   |
