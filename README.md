@@ -26,6 +26,7 @@ python -m doctest 0001_two_sum.py
 | 1332 | Easy       | Remove Palindromic Subsequences                       |
 | 1302 | Medium     | Deepest Leaves Sum                                    |
 | 1198 | Medium     | Find Smallest Common Element in All Rows              |
+| 1192 | Hard       | Critical Connections in a Network                     |
 | 1165 | Easy       | Single-Row Keyboard                                   |
 | 1136 | Medium     | Parallel Courses                                      |
 | 1074 | Hard       | Number of Submatrices That Sum to Target              |
