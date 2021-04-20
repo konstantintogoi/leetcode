@@ -43,6 +43,7 @@ python -m doctest 0001_two_sum.py
 |  775 | Medium     | Global and Local Inversions                           |
 |  706 | Easy       | Design HashMap                                        |
 |  704 | Easy       | Binary Search                                         |
+|  696 | Easy       | Count Binary Substrings                               |
 |  669 | Medium     | Trim a Binary Search Tree                             |
 |  667 | Medium     | Beautiful Arrangement II                              |
 |  647 | Medium     | Palindromic Substrings                                |
