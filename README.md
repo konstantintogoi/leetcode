@@ -65,6 +65,7 @@ python -m doctest 0001_two_sum.py
 |  374 | Easy       | Guess Number Higher or Lower                          |
 |  354 | Hard       | Russian Doll Envelopes                                |
 |  322 | Medium     | Coin Change                                           |
+|  278 | Easy       | First Bad Version                                     |
 |  268 | Easy       | Missing Number                                        |
 |  246 | Easy       | Strobogrammatic Number                                |
 |  234 | Easy       | Palindrome Linked List                                |
