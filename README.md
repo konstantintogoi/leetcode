@@ -83,6 +83,7 @@ python -m doctest 0001_two_sum.py
 |   66 | Easy       | Plus One                                              |
 |   58 | Easy       | Length of Last Word                                   |
 |   53 | Easy       | Maximum Subarray                                      |
+|   48 | Medium     | Rotate Image                                          |
 |   43 | Medium     | Multiply Strings                                      |
 |   38 | Easy       | Count and Say                                         |
 |   35 | Easy       | Search Insert Position                                |
