@@ -84,6 +84,7 @@ python -m doctest 0001_two_sum.py
 |   69 | Easy       | Sqrt(x)                                                 |
 |   67 | Easy       | Add Binary                                              |
 |   66 | Easy       | Plus One                                                |
+|   63 | Medium     | Unique Paths II                                         |
 |   58 | Easy       | Length of Last Word                                     |
 |   53 | Easy       | Maximum Subarray                                        |
 |   48 | Medium     | Rotate Image                                            |
