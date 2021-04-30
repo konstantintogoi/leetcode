@@ -33,6 +33,7 @@ python -m doctest 0001_two_sum.py
 | 1074 | Hard       | Number of Submatrices That Sum to Target                |
 |  993 | Easy       | Cousins in Binary Tree                                  |
 |  971 | Medium     | Flip Binary Tree To Match Preorder Traversal            |
+|  970 | Medium     | Powerful Integers                                       |
 |  966 | Medium     | Vower Spellchecker                                      |
 |  936 | Hard       | Stamping The Sequence                                   |
 |  923 | Medium     | 3Sum With Multiplicity                                  |
