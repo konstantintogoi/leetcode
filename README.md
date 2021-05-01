@@ -35,6 +35,7 @@ python -m doctest 0001_two_sum.py
 |  971 | Medium     | Flip Binary Tree To Match Preorder Traversal            |
 |  970 | Medium     | Powerful Integers                                       |
 |  966 | Medium     | Vower Spellchecker                                      |
+|  953 | Easy       | Verifying an Alien Dictionary                           |
 |  936 | Hard       | Stamping The Sequence                                   |
 |  923 | Medium     | 3Sum With Multiplicity                                  |
 |  916 | Medium     | Word Subsets                                            |
