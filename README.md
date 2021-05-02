@@ -78,6 +78,7 @@ python -m doctest 0001_two_sum.py
 |  162 | Medium     | Find Peak Element                                       |
 |  160 | Easy       | Intersection of Two Linked Lists                        |
 |  153 | Medium     | Find Minimum in Rotated Sorted Array                    |
+|  120 | Medium     | Triangle                                                |
 |  100 | Easy       | Same Tree                                               |
 |   94 | Medium     | Binary Tree Inorder Traversal                           |
 |   88 | Easy       | Merge Sorted Array                                      |
