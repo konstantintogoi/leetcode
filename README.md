@@ -50,6 +50,7 @@ python -m doctest 0001_two_sum.py
 |  696 | Easy       | Count Binary Substrings                                 |
 |  669 | Medium     | Trim a Binary Search Tree                               |
 |  667 | Medium     | Beautiful Arrangement II                                |
+|  658 | Medium     | Find K Closest Elements                                 |
 |  647 | Medium     | Palindromic Substrings                                  |
 |  645 | Easy       | Set Mismatch                                            |
 |  637 | Easy       | Average of Levels in Binary Tree                        |
