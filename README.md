@@ -91,6 +91,7 @@ python -m doctest 0001_two_sum.py
 |   63 | Medium     | Unique Paths II                                         |
 |   58 | Easy       | Length of Last Word                                     |
 |   53 | Easy       | Maximum Subarray                                        |
+|   50 | Medium     | Pow(x, n)                                               |
 |   48 | Medium     | Rotate Image                                            |
 |   43 | Medium     | Multiply Strings                                        |
 |   38 | Easy       | Count and Say                                           |
