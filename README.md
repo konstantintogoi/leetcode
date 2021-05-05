@@ -67,6 +67,7 @@ python -m doctest 0001_two_sum.py
 |  416 | Medium     | Partition Equal Subset Sum                              |
 |  376 | Medium     | Wiggle Subsequence                                      |
 |  374 | Easy       | Guess Number Higher or Lower                            |
+|  367 | Easy       | Valid Perfect Square                                    |
 |  354 | Hard       | Russian Doll Envelopes                                  |
 |  326 | Easy       | Power of Three                                          |
 |  322 | Medium     | Coin Change                                             |
