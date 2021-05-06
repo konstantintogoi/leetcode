@@ -45,6 +45,7 @@ python -m doctest 0001_two_sum.py
 |  823 | Medium     | Binary Trees With Factors                               |
 |  820 | Medium     | Short Encoding of Words                                 |
 |  775 | Medium     | Global and Local Inversions                             |
+|  744 | Easy       | Find Smallest Letter Greater Than Target                |
 |  706 | Easy       | Design HashMap                                          |
 |  704 | Easy       | Binary Search                                           |
 |  696 | Easy       | Count Binary Substrings                                 |
