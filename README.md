@@ -2,6 +2,8 @@
 
 Solutions of LeetCode's problems.
 
+Author: https://leetcode.com/TheKoStiG/
+
 #### Run tests
 
 Python solutions can be tested
