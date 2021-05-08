@@ -82,6 +82,7 @@ python -m doctest 0001_two_sum.py
 |  169 | Easy       | Majority Element                                        |
 |  162 | Medium     | Find Peak Element                                       |
 |  160 | Easy       | Intersection of Two Linked Lists                        |
+|  154 | Hard       | Find Minimum in Rotated Sorted Array II                 |
 |  153 | Medium     | Find Minimum in Rotated Sorted Array                    |
 |  120 | Medium     | Triangle                                                |
 |  100 | Easy       | Same Tree                                               |
