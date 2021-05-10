@@ -82,6 +82,7 @@ python -m doctest 0001_two_sum.py
 |  234 | Easy       | Palindrome Linked List                                  |
 |  191 | Easy       | Number of 1 Bits                                        |
 |  169 | Easy       | Majority Element                                        |
+|  167 | Easy       | Two Sum II - Input array is sorted                      |
 |  162 | Medium     | Find Peak Element                                       |
 |  160 | Easy       | Intersection of Two Linked Lists                        |
 |  154 | Hard       | Find Minimum in Rotated Sorted Array II                 |
