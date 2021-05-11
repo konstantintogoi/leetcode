@@ -76,6 +76,7 @@ python -m doctest 0001_two_sum.py
 |  349 | Easy       | Intersection of Two Arrays                              |
 |  326 | Easy       | Power of Three                                          |
 |  322 | Medium     | Coin Change                                             |
+|  287 | Medium     | Find the Duplicate Number                               |
 |  278 | Easy       | First Bad Version                                       |
 |  268 | Easy       | Missing Number                                          |
 |  246 | Easy       | Strobogrammatic Number                                  |
