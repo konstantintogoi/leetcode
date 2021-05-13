@@ -1,5 +1,5 @@
 """
-Solution of "Median of Two Sorted Arrays" problem at
+Solution of the hard problem - "Median of Two Sorted Arrays",
 https://leetcode.com/problems/median-of-two-sorted-arrays/
 """
 from typing import List
@@ -35,66 +35,28 @@ class Solution:
         2.0
 
         """
-        n, m = len(nums1), len(nums2)
+        if len(nums2) < len(nums1):
+            nums1, nums2 = nums2, nums1
 
-        if n == 1 and m == 1:
-            return (nums1[0] + nums2[0]) / 2
+        n1, n2 = len(nums1), len(nums2)
+        half = (n1 + n2) // 2
+        l, r = 0, n1 - 1
 
-        npm = n + m
-        arr = [[0 for _ in range(m)] for _ in range(n)]
-        mid = (n + m - 1) // 2
+        while True:
+            i = (l + r) // 2
+            j = half - i - 2
 
-        if not nums1:
-            if npm % 2:
-                return nums2[mid]
+            lo1 = nums1[i] if i >= 0 else float('-inf')
+            lo2 = nums2[j] if j >= 0 else float('-inf')
+
+            hi1 = nums1[i + 1] if (i + 1) < len(nums1) else float('inf')
+            hi2 = nums2[j + 1] if (j + 1) < len(nums2) else float('inf')
+
+            if lo1 <= hi2 and lo2 <= hi1:
+                lo, hi = max(lo1, lo2), min(hi1, hi2)
+                return hi if (n1 + n2) % 2 else (lo + hi) / 2
+            elif lo1 > hi2:
+                r = i - 1
             else:
-                return (nums2[mid] + nums2[mid + 1]) / 2
-
-        if not nums2:
-            if npm % 2:
-                return nums1[mid]
-            else:
-                return (nums1[mid] + nums1[mid + 1]) / 2
-
-        for i in range(n):
-            j = self.pos(nums2, nums1[i])
-            if (j < m and nums1[i] == nums2[j]):
-                j += 1
-            if i + j == mid:
-                if npm % 2:
-                    return nums1[i]
-                elif i + 1 < n and j < m:
-                    return (nums1[i] + min(nums1[i + 1], nums2[j])) / 2
-                elif i + 1 < n:
-                    return (nums1[i] + nums1[i + 1]) / 2
-                else:
-                    return (nums1[i] + nums2[j]) / 2
-
-        for j in range(m):
-            i = self.pos(nums1, nums2[j])
-            #if (i < n and nums1[i] == nums2[j]):
-            #    i += 1
-            if i + j == mid:
-                if npm % 2:
-                    return nums2[j]
-                elif j + 1 < m and i < n:
-                    return (nums2[j] + min(nums2[j + 1], nums1[i])) / 2
-                elif j + 1 < m:
-                    return (nums2[j] + nums2[j + 1]) / 2
-                else:
-                    return (nums2[j] + nums1[i]) / 2
-
-        return 2
-
-    def pos(self, nums: List[int], target: int) -> int:
-        l, r = -1, len(nums)
-
-        while l + 1 != r:
-            mid = (l + r) // 2
-            if nums[mid] < target:
-                l = mid
-            else:
-                r = mid
-
-        return r
+                l = i + 1
 
