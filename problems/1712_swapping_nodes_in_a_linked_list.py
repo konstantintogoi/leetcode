@@ -1,5 +1,5 @@
 """
-Solution of "Swapping Nodes in a Linked List" problem at
+Solution of the medium problem "Swapping Nodes in a Linked List",
 https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 """
 class ListNode:
