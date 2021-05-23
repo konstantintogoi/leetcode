@@ -1,6 +1,6 @@
 """
-Solution of "Add Two Numbers"
-problem at https://leetcode.com/problems/add-two-numbers/.
+Solution of the medium problem - "Add Two Numbers",
+https://leetcode.com/problems/add-two-numbers/
 """
 
 class ListNode:
