@@ -1,5 +1,6 @@
 """
-Solution of "Longest Substring Without Repeating Characters" problem at
+Solution of the medium problem -
+"Longest Substring Without Repeating Characters",
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 """
 class Solution:
