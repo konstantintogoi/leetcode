@@ -1,5 +1,5 @@
 """
-Solution of "Longest Palindromic Substring" problem at
+Solution of the medium problem - "Longest Palindromic Substring",
 https://leetcode.com/problems/longest-palindromic-substring/
 """
 class Solution:
