@@ -1,5 +1,5 @@
 """
-Solution of "ZigZag Conversion" problem at
+Solution of the medium problem - "ZigZag Conversion",
 https://leetcode.com/problems/zigzag-conversion/
 """
 class Solution:
