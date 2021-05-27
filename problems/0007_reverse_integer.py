@@ -1,5 +1,5 @@
 """
-Solution of "Reverse Integer" problem at
+Solution of the easy problem - "Reverse Integer",
 https://leetcode.com/problems/reverse-integer/
 """
 
