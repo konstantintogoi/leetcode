@@ -1,5 +1,5 @@
 """
-Solution of "String to Integer (atoi)" problem at
+Solution of the medium problem - "String to Integer (atoi)",
 https://leetcode.com/problems/string-to-integer-atoi/
 """
 class Solution:
