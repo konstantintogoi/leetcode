@@ -1,5 +1,5 @@
 """
-Solution of "Palindrome Number" prolblem at
+Solution of the easy problem - "Palindrome Number",
 https://leetcode.com/problems/palindrome-number/
 """
 class Solution:
