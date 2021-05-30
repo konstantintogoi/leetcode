@@ -1,5 +1,5 @@
 """
-Solution of "Regular Expression Matching" problem at
+Solution of the hard problem - "Regular Expression Matching",
 https://leetcode.com/problems/regular-expression-matching/
 """
 class Solution:
