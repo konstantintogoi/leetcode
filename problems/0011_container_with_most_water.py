@@ -1,5 +1,5 @@
 """
-Solution of "Container With Most Water" problem at
+Solution of the medium problem - "Container With Most Water",
 https://leetcode.com/problems/container-with-most-water/
 """
 from typing import List
