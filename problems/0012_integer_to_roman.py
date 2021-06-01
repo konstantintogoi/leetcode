@@ -1,5 +1,5 @@
 """
-Solution of "Integer to Roman" problem at
+Solution of the medium problem - "Integer to Roman",
 https://leetcode.com/problems/integer-to-roman/
 """
 class Solution:
