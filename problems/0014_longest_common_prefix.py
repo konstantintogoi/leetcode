@@ -1,5 +1,5 @@
 """
-Solution of "Longest Common Prefix" problem at
+Solution of the easy problem - "Longest Common Prefix",
 https://leetcode.com/problems/longest-common-prefix/
 """
 from typing import List
