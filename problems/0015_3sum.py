@@ -1,5 +1,5 @@
 """
-Solution of "3Sum" problam at
+Solution of the medium problem - "3Sum",
 https://leetcode.com/problems/3sum/
 """
 from typing import List
