@@ -1,5 +1,5 @@
 """
-Solution of "3Sum Closest" problem at
+Solution of the medium problem - "3Sum Closest",
 https://leetcode.com/problems/3sum-closest/
 """
 from typing import List
