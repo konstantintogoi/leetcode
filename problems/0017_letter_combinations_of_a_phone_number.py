@@ -1,5 +1,5 @@
 """
-Solution of "Letter Combinations of a Phone Number" problem at
+Solution of the medium problem - "Letter Combinations of a Phone Number",
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 """
 from typing import List
