@@ -1,5 +1,5 @@
 """
-Solution of "Remove Nth Node From End of List" problem at
+Solution of the medium problem - "Remove Nth Node From End of List",
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 """
 class ListNode:
