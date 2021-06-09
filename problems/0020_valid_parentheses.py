@@ -1,5 +1,5 @@
 """
-Solution of "Valid Parentheses" problem at
+Solution of the easy problem - "Valid Parentheses",
 https://leetcode.com/problems/valid-parentheses/
 """
 class Solution:
