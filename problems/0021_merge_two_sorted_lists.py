@@ -1,5 +1,5 @@
 """
-Solution of "Merge Two Sorted Lists" problem at
+Solution of the easy problem - "Merge Two Sorted Lists",
 https://leetcode.com/problems/merge-two-sorted-lists/
 """
 class ListNode:
