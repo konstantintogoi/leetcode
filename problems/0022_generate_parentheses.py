@@ -1,5 +1,5 @@
 """
-Solution of "Generate Parentheses" problem at
+Solution of the medium problem - "Generate Parentheses",
 https://leetcode.com/problems/generate-parentheses/
 """
 from typing import List
