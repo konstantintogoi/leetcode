@@ -1,5 +1,5 @@
 """
-Solution of "Merge k Sorted Lists" problem at
+Solution of the hard problem - "Merge k Sorted Lists",
 https://leetcode.com/problems/merge-k-sorted-lists/
 """
 from typing import List
