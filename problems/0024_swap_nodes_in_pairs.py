@@ -1,5 +1,5 @@
 """
-Solution of "Swap Nodes in Pairs" problem at
+Solution of the medium problem - "Swap Nodes in Pairs",
 https://leetcode.com/problems/swap-nodes-in-pairs/
 """
 class ListNode:
