@@ -1,5 +1,5 @@
 """
-Solution of "Reverse Nodes in k-Group" problem at
+Solution of the hard problem - "Reverse Nodes in k-Group",
 https://leetcode.com/problems/reverse-nodes-in-k-group/
 """
 class ListNode:
