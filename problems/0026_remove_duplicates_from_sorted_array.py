@@ -1,5 +1,5 @@
 """
-Solution of "Remove Duplicates from Sorted Array" problem at
+Solution of the easy problem - "Remove Duplicates from Sorted Array",
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 """
 from typing import List
