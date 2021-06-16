@@ -1,5 +1,5 @@
 """
-Solution of "Remove Element" problem at
+Solution of the easy problem - "Remove Element",
 https://leetcode.com/problems/remove-element/
 """
 from typing import List
