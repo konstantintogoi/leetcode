@@ -1,5 +1,5 @@
 """
-Solution of "Implement strStr()" problem at
+Solution of the easy problem - "Implement strStr()",
 https://leetcode.com/problems/implement-strstr/
 """
 class Solution:
