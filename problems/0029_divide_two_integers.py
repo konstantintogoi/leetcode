@@ -1,5 +1,5 @@
 """
-Solution of "Divide Two Integers" problem at
+Solution of the medium problem - "Divide Two Integers",
 https://leetcode.com/problems/divide-two-integers/
 """
 class Solution:
@@ -27,7 +27,11 @@ class Solution:
         dividend = -dividend if dividend < 0 else dividend
         divisor = -divisor if divisor < 0 else divisor
         if divisor == 1:
-            return (-dividend if signed else dividend) if dividend <= MAX + signed else MAX
+            return (
+                (-dividend if signed else dividend)
+                if dividend <= MAX + signed else
+                MAX
+            )
 
         quotient = 0
         while dividend >= divisor:
