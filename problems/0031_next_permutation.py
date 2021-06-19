@@ -1,5 +1,5 @@
 """
-Solution of "Next Permutation" problem at
+Solution of the medium problem - "Next Permutation",
 https://leetcode.com/problems/next-permutation/
 """
 from typing import List
