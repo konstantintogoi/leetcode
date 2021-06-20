@@ -1,5 +1,6 @@
 """
-Solution of the medium problem - "Find First and Last Position of Element in Sorted Array",
+Solution of the medium problem -
+"Find First and Last Position of Element in Sorted Array",
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 """
 from typing import List
