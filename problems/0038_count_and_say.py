@@ -1,5 +1,5 @@
 """
-Solution of "Count and Say" problem at
+Solution of the medium problem - "Count and Say",
 https://leetcode.com/problems/count-and-say/
 """
 class Solution:
