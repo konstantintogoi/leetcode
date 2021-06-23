@@ -1,5 +1,5 @@
 """
-Solution of "Multiply Strings" problem at
+Solution of the medium problem - "Multiply Strings",
 https://leetcode.com/problems/multiply-strings/
 """
 class Solution:
