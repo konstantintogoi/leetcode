@@ -1,5 +1,5 @@
 """
-Solution of "Maximum Subarray" problem at
+Solution of the easy problem - "Maximum Subarray",
 https://leetcode.com/problems/maximum-subarray/
 """
 from typing import List
