@@ -1,5 +1,5 @@
 """
-Solution of "Length of Last Word" problem at
+Solution of the easy problem - "Length of Last Word",
 https://leetcode.com/problems/length-of-last-word/
 """
 class Solution:
