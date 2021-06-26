@@ -1,5 +1,5 @@
 """
-Solution of "Plus One" problem at
+Solution of the easy problem - "Plus One",
 https://leetcode.com/problems/plus-one/
 """
 from typing import List
