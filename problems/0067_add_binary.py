@@ -1,5 +1,5 @@
 """
-Solution of "Add Binary" problem at
+Solution of the easy problem - "Add Binary",
 https://leetcode.com/problems/add-binary/
 """
 class Solution:
