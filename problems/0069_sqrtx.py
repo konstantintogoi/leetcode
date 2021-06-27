@@ -1,5 +1,5 @@
 """
-Solution of "Sqrt(x)" problem at
+Solution of the easy problem - "Sqrt(x)",
 https://leetcode.com/problems/sqrtx/
 """
 class Solution:
