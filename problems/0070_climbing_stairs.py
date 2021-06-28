@@ -1,5 +1,5 @@
 """
-Solution of "Climbing Stairs" problem at
+Solution of the easy problem - "Climbing Stairs",
 https://leetcode.com/problems/climbing-stairs/
 """
 class Solution:
