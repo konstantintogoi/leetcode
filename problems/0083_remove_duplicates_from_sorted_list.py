@@ -1,5 +1,5 @@
 """
-Solution of "Remove Duplicates from Sorted List" problem at
+Solution of the easy problem - "Remove Duplicates from Sorted List",
 https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 """
 class ListNode:
