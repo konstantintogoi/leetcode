@@ -1,5 +1,5 @@
 """
-Solution of "Merge Sorted Array" problem at
+Solution of the easy problem - "Merge Sorted Array",
 https://leetcode.com/problems/merge-sorted-array/
 """
 from typing import List
