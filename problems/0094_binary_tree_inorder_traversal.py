@@ -1,5 +1,5 @@
 """
-Solution of "Binary Tree Inorder Traversal" problem at
+Solution of the easy problem - "Binary Tree Inorder Traversal",
 https://leetcode.com/problems/binary-tree-inorder-traversal/
 """
 from typing import List
