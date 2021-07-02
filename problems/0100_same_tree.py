@@ -1,5 +1,5 @@
 """
-Solution of "Same Tree" problem at
+Solution of the easy problem - "Same Tree",
 https://leetcode.com/problems/same-tree/
 """
 class TreeNode:
