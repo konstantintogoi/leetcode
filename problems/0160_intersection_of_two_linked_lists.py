@@ -1,5 +1,5 @@
 """
-Solution of "Intersection of Two Linked Lists" problem at
+Solution of the easy problem - "Intersection of Two Linked Lists",
 https://leetcode.com/problems/intersection-of-two-linked-lists/
 """
 class ListNode:
