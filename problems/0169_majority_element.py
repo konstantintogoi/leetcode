@@ -1,5 +1,5 @@
 """
-Solution of "Majority Element" problem at
+Solution of the easy problem - "Majority Element",
 https://leetcode.com/problems/majority-element/
 """
 from typing import List
