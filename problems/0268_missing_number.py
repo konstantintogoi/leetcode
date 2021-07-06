@@ -1,5 +1,5 @@
 """
-Solution of "Missing Number" problem at
+Solution of the easy problem - "Missing Number",
 https://leetcode.com/problems/missing-number/
 """
 from typing import List
