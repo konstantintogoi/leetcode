@@ -1,5 +1,5 @@
 """
-Solution of "Coin Change" problem at
+Solution of the medium problem - "Coin Change",
 https://leetcode.com/problems/coin-change/
 """
 from typing import List
