@@ -1,5 +1,5 @@
 """
-Solution of "Wiggle Subsequence" problem at
+Solution of the medium problem - "Wiggle Subsequence",
 https://leetcode.com/problems/wiggle-subsequence/
 """
 from typing import List
