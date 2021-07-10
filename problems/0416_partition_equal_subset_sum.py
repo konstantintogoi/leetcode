@@ -1,5 +1,5 @@
 """
-Solution of "Partition Equal Subset Sum" at
+Solution of the medium problem - "Partition Equal Subset Sum",
 https://leetcode.com/problems/partition-equal-subset-sum/
 """
 from typing import List
