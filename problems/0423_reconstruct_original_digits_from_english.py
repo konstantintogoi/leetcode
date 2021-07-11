@@ -1,5 +1,5 @@
 """
-Solution of "Reconstruct Original Digits from English" problem at
+Solution of the medium problem - "Reconstruct Original Digits from English",
 https://leetcode.com/problems/reconstruct-original-digits-from-english/
 """
 from collections import Counter
