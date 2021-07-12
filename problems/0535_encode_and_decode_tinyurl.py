@@ -1,5 +1,5 @@
 """
-Solution of "Encode and Decode TinyURL" problem at
+Solution of the medium problem - "Encode and Decode TinyURL",
 https://leetcode.com/problems/encode-and-decode-tinyurl/
 """
 class Codec:
