@@ -1,5 +1,5 @@
 """
-Solution of "Distribute Candies" problem at
+Solution of the easy problem - "Distribute Candies",
 https://leetcode.com/problems/distribute-candies/
 """
 from typing import List
