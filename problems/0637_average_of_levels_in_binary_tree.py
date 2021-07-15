@@ -1,5 +1,5 @@
 """
-Solution of "Average Levels in Binary Tree" problem at
+Solution of the easy problem - "Average Levels in Binary Tree",
 https://leetcode.com/problems/average-of-levels-in-binary-tree/
 """
 from typing import List
