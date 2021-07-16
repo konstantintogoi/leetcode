@@ -1,5 +1,5 @@
 """
-Solution of "Set Mismatch" problem at
+Solution of the easy problem - "Set Mismatch",
 https://leetcode.com/problems/set-mismatch/
 """
 from typing import List
