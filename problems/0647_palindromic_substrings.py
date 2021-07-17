@@ -1,5 +1,5 @@
 """
-Solution of "Palindromic Substrings" problem at
+Solution of the medium problem - "Palindromic Substrings",
 https://leetcode.com/problems/palindromic-substrings/
 """
 class Solution:
