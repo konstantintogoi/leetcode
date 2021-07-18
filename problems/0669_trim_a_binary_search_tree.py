@@ -1,5 +1,5 @@
 """
-Solution of "Trim a Binary Search Tree" problem at
+Solution of the medium problem - "Trim a Binary Search Tree",
 https://leetcode.com/problems/trim-a-binary-search-tree/
 """
 class TreeNode:
