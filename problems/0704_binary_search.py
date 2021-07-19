@@ -1,5 +1,5 @@
 """
-Solution of "Binary Search" problem at
+Solution of the easy problem - "Binary Search",
 https://leetcode.com/problems/binary-search/
 """
 from typing import List
