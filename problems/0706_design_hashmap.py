@@ -1,5 +1,5 @@
 """
-Solution of 'Design Hashmap' problem at
+Solution of the easy problem - 'Design Hashmap',
 https://leetcode.com/problems/design-hashmap/
 """
 class HashMap:
