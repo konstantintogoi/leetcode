@@ -1,5 +1,5 @@
 """
-Solution of "Short Encoding of Words" problem at
+Solution of the medium problem - "Short Encoding of Words",
 https://leetcode.com/problems/short-encoding-of-words/
 """
 from typing import List
