@@ -1,5 +1,5 @@
 """
-Solution of "Binary Tree With Factors" problem at
+Solution of the medium problem - "Binary Tree With Factors",
 https://leetcode.com/problems/binary-trees-with-factors/
 """
 from typing import List, Set
