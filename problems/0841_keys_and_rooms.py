@@ -1,5 +1,5 @@
 """
-Solution of "Keys and Rooms" problem at
+Solution of the medium problem - "Keys and Rooms",
 https://leetcode.com/problems/keys-and-rooms/
 """
 from typing import List
