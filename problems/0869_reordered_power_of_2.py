@@ -1,5 +1,5 @@
 """
-Solution of "Reordered Power of 2" problem at
+Solution of the medium problem - "Reordered Power of 2",
 https://leetcode.com/problems/reordered-power-of-2/
 """
 from itertools import permutations
