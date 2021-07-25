@@ -1,5 +1,5 @@
 """
-Solution of "Advantage Shuffle" problem at
+Solution of the medium problem - "Advantage Shuffle",
 https://leetcode.com/problems/advantage-shuffle/
 """
 from collections import deque
