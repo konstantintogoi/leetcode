@@ -1,5 +1,5 @@
 """
-Solution of "Word Subsets" problem at
+Solution of the medium problem - "Word Subsets",
 https://leetcode.com/problems/word-subsets/
 """
 from collections import Counter
