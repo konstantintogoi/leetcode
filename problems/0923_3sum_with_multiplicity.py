@@ -1,10 +1,9 @@
 """
-Solution of "3Sum With Multiplicity" problem at
+Solution of the medium problem - "3Sum With Multiplicity",
 https://leetcode.com/problems/3sum-with-multiplicity/
 """
 from functools import lru_cache
 from typing import List
-
 
 
 class Solution:
