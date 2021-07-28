@@ -1,5 +1,5 @@
 """
-Solution of "Vowel Spellchecker" problem at
+Solution of the medium problem - "Vowel Spellchecker",
 https://leetcode.com/problems/vowel-spellchecker/
 """
 from typing import List
