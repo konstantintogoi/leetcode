@@ -1,5 +1,6 @@
 """
-Solution of "Flip Binary Tree To Match Preorder Traversal" problem at
+Solution of the medium problem -
+"Flip Binary Tree To Match Preorder Traversal",
 https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
 """
 from typing import List
