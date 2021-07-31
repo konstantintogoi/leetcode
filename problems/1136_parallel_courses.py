@@ -1,5 +1,5 @@
 """
-Solution of "Parallel Courses" problem at
+Solution of the medium problem - "Parallel Courses",
 https://leetcode.com/problems/parallel-courses/
 """
 from typing import List
