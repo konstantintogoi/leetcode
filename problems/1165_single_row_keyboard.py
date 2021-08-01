@@ -1,5 +1,5 @@
 """
-Solution of "Single-Row Keyboard" at
+Solution of the easy problem - "Single-Row Keyboard",
 https://leetcode.com/problems/single-row-keyboard/
 """
 class Solution:
