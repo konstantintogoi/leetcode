@@ -1,5 +1,5 @@
 """
-Solution of "Find Smallest Common Element in All Rows" problem at
+Solution of the medium problem - "Find Smallest Common Element in All Rows",
 https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 """
 from typing import List
