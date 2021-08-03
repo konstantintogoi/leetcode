@@ -1,5 +1,5 @@
 """
-Solution of "Remove Palindromic Subsequences" problem at
+Solution of the easy problem - "Remove Palindromic Subsequences",
 https://leetcode.com/problems/remove-palindromic-subsequences/
 """
 class Solution:
