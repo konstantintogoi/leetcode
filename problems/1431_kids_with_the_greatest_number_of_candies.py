@@ -1,5 +1,5 @@
 """
-Solution of "Kids With the Greatest Number of Candies" problem at
+Solution of the easy problem - "Kids With the Greatest Number of Candies",
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 """
 from typing import List
