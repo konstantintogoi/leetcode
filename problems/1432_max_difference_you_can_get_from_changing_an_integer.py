@@ -1,5 +1,6 @@
 """
-Solution of "Max Difference You Can Get From Changing an Integer" problem at
+Solution of the medium problem -
+"Max Difference You Can Get From Changing an Integer",
 https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/
 """
 class Solution:
