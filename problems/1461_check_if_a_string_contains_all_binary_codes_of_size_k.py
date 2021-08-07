@@ -1,5 +1,6 @@
 """
-Solution of "Check if a String Contains All Binary Codes of Size K" problem at
+Solution of the medium problem -
+"Check if a String Contains All Binary Codes of Size K",
 https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 """
 class Solution:
