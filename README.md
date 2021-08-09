@@ -96,6 +96,7 @@ python -m doctest 0001_two_sum.py
 |  100 | Easy       | Same Tree                                               |
 |   94 | Medium     | Binary Tree Inorder Traversal                           |
 |   88 | Easy       | Merge Sorted Array                                      |
+|   86 | Medium     | Partition List                                          |
 |   83 | Easy       | Remove Duplicates from Sorted List                      |
 |   70 | Easy       | Climbing Stairs                                         |
 |   69 | Easy       | Sqrt(x)                                                 |
