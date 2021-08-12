@@ -116,6 +116,7 @@ python -m doctest 0001_two_sum.py
 |   33 | Medium     | Search in Rotated Sorted Array                          |
 |   32 | Hard       | Longest Valid Parentheses                               |
 |   31 | Medium     | Next Permutation                                        |
+|   30 | Hard       | Substring with Concatenation of All Words               |
 |   29 | Medium     | Divide Two Integers                                     |
 |   28 | Easy       | Implement strStr()                                      |
 |   27 | Easy       | Remove Element                                          |
