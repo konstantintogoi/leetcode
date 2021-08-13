@@ -110,6 +110,7 @@ python -m doctest 0001_two_sum.py
 |   48 | Medium     | Rotate Image                                            |
 |   43 | Medium     | Multiply Strings                                        |
 |   38 | Easy       | Count and Say                                           |
+|   37 | Hard       | Sudoku Solver                                           |
 |   36 | Medium     | Valid Sudoku                                            |
 |   35 | Easy       | Search Insert Position                                  |
 |   34 | Medium     | Find First and Last Position of Element in Sorted Array |
