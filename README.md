@@ -109,6 +109,7 @@ python -m doctest 0001_two_sum.py
 |   50 | Medium     | Pow(x, n)                                               |
 |   48 | Medium     | Rotate Image                                            |
 |   43 | Medium     | Multiply Strings                                        |
+|   40 | Medium     | Combination Sum II                                      |
 |   39 | Medium     | Combination Sum                                         |
 |   38 | Easy       | Count and Say                                           |
 |   37 | Hard       | Sudoku Solver                                           |
