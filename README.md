@@ -108,6 +108,7 @@ python -m doctest 0001_two_sum.py
 |   53 | Easy       | Maximum Subarray                                        |
 |   50 | Medium     | Pow(x, n)                                               |
 |   48 | Medium     | Rotate Image                                            |
+|   45 | Medium     | Jump Game II                                            |
 |   43 | Medium     | Multiply Strings                                        |
 |   40 | Medium     | Combination Sum II                                      |
 |   39 | Medium     | Combination Sum                                         |
