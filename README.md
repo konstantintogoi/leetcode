@@ -107,6 +107,7 @@ python -m doctest 0001_two_sum.py
 |   58 | Easy       | Length of Last Word                                     |
 |   53 | Easy       | Maximum Subarray                                        |
 |   50 | Medium     | Pow(x, n)                                               |
+|   49 | Medium     | Group Anagrams                                          |
 |   48 | Medium     | Rotate Image                                            |
 |   45 | Medium     | Jump Game II                                            |
 |   43 | Medium     | Multiply Strings                                        |
