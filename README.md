@@ -109,6 +109,7 @@ python -m doctest 0001_two_sum.py
 |   50 | Medium     | Pow(x, n)                                               |
 |   49 | Medium     | Group Anagrams                                          |
 |   48 | Medium     | Rotate Image                                            |
+|   46 | Medium     | Permutations                                            |
 |   45 | Medium     | Jump Game II                                            |
 |   43 | Medium     | Multiply Strings                                        |
 |   40 | Medium     | Combination Sum II                                      |
