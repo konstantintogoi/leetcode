@@ -113,6 +113,7 @@ python -m doctest 0001_two_sum.py
 |   46 | Medium     | Permutations                                            |
 |   45 | Medium     | Jump Game II                                            |
 |   43 | Medium     | Multiply Strings                                        |
+|   41 | Hard       | First Missing Positive                                  |
 |   40 | Medium     | Combination Sum II                                      |
 |   39 | Medium     | Combination Sum                                         |
 |   38 | Easy       | Count and Say                                           |
