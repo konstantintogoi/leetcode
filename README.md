@@ -112,6 +112,7 @@ python -m doctest 0001_two_sum.py
 |   47 | Medium     | Permutations II                                         |
 |   46 | Medium     | Permutations                                            |
 |   45 | Medium     | Jump Game II                                            |
+|   44 | Hard       | Wildcard Matching                                       |
 |   43 | Medium     | Multiply Strings                                        |
 |   42 | Hard       | Trapping Rain Water                                     |
 |   41 | Hard       | First Missing Positive                                  |
