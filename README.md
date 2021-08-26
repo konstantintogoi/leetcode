@@ -94,6 +94,7 @@ python -m doctest 0001_two_sum.py
 |  154 | Hard       | Find Minimum in Rotated Sorted Array II                 |
 |  153 | Medium     | Find Minimum in Rotated Sorted Array                    |
 |  120 | Medium     | Triangle                                                |
+|  110 | Easy       | Balanced Binary Tree                                    |
 |  108 | Easy       | Convert Sorted Array to Binary Search Tree              |
 |  104 | Easy       | Maximum Depth of Binary Tree                            |
 |  101 | Easy       | Symmetric Tree                                          |
