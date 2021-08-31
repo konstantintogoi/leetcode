@@ -1,5 +1,6 @@
 """
-Solution of the easy problem - "Same Tree",
+Solution of the easy problem -
+"Same Tree",
 https://leetcode.com/problems/same-tree/
 """
 class TreeNode:
@@ -7,6 +8,22 @@ class TreeNode:
         self.val = val
         self.left = left
         self.right = right
+
+    def __repr__(self):
+        if self.val is None: return '[]'
+        vals, queue = [], [self]
+
+        while queue:
+            node = queue.pop()
+            if node: vals.append(node.val)
+            # else: vals.append(None)
+
+            if node: queue.insert(0, node.left)
+            if node: queue.insert(0, node.right)
+
+        while vals[-1] is None: vals.pop()
+
+        return repr(vals)
 
 
 class Solution:
