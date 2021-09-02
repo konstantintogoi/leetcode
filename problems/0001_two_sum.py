@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Two Sum",
+Solution of the easy problem
 https://leetcode.com/problems/two-sum/
+"Two Sum"
 """
 from typing import List
 
