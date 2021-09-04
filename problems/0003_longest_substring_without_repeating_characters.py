@@ -1,7 +1,7 @@
 """
-Solution of the medium problem -
-"Longest Substring Without Repeating Characters",
+Solution of the medium problem
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
+"Longest Substring Without Repeating Characters"
 """
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
@@ -32,4 +32,3 @@ class Solution:
             if len(cursubs) > len(maxsubs):
                 maxsubs = cursubs
         return len(maxsubs)
-
