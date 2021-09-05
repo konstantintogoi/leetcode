@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Median of Two Sorted Arrays",
+Solution of the hard problem
 https://leetcode.com/problems/median-of-two-sorted-arrays/
+"Median of Two Sorted Arrays"
 """
 from typing import List
 
@@ -59,4 +60,3 @@ class Solution:
                 r = i - 1
             else:
                 l = i + 1
-
