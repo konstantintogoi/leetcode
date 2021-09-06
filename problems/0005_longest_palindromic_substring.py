@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Longest Palindromic Substring",
+Solution of the medium problem
 https://leetcode.com/problems/longest-palindromic-substring/
+"Longest Palindromic Substring"
 """
 class Solution:
     def longestPalindrome(self, s: str) -> str:
@@ -71,4 +72,3 @@ class Solution:
                 table[i, j] = False
 
         return table[i, j]
-
