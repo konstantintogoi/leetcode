@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "ZigZag Conversion",
+Solution of the medium problem
 https://leetcode.com/problems/zigzag-conversion/
+"ZigZag Conversion"
 """
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
@@ -31,4 +32,3 @@ class Solution:
             for j in range(len(a)):
                 s += a[j][i]
         return s
-
