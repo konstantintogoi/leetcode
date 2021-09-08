@@ -1,8 +1,8 @@
 """
-Solution of the easy problem - "Reverse Integer",
+Solution of the easy problem
 https://leetcode.com/problems/reverse-integer/
+"Reverse Integer"
 """
-
 MAX = int((2**31 - 1)/10)  # 2147483647 / 10
 MIN = int(-2 ** 31 / 10)  # -2147483648 / 10
 
@@ -38,4 +38,3 @@ class Solution:
             rev = rev * 10 + pop
 
         return rev
-
