@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "String to Integer (atoi)",
+Solution of the medium problem
 https://leetcode.com/problems/string-to-integer-atoi/
+"String to Integer (atoi)"
 """
 class Solution:
     def myAtoi(self, s: str) -> int:
@@ -56,4 +57,3 @@ class Solution:
             j += 1
 
         return (-1 if is_negative else 1) * integer
-
