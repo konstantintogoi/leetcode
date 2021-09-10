@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Palindrome Number",
+Solution of the easy problem
 https://leetcode.com/problems/palindrome-number/
+"Palindrome Number"
 """
 class Solution:
     def isPalindrome(self, x: int) -> bool:
@@ -27,4 +28,3 @@ class Solution:
             x = x // 10
 
         return x == xrev or x == xrev // 10
-
