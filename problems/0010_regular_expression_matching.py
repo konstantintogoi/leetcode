@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Regular Expression Matching",
+Solution of the hard problem
 https://leetcode.com/problems/regular-expression-matching/
+"Regular Expression Matching"
 """
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
@@ -38,4 +39,3 @@ class Solution:
                     ans = match and self.dp(s, p, i + 1, j + 1)
             memo[i, j] = ans
         return memo[i, j]
-
