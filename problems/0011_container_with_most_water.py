@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Container With Most Water",
+Solution of the medium problem
 https://leetcode.com/problems/container-with-most-water/
+"Container With Most Water"
 """
 from typing import List
 
@@ -43,4 +44,3 @@ class Solution:
             return memo[i, j]
 
         return dp(0, len(height) - 1)
-
