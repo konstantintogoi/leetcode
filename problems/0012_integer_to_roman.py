@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Integer to Roman",
+Solution of the medium problem
 https://leetcode.com/problems/integer-to-roman/
+"Integer to Roman"
 """
 class Solution:
     def intToRoman(self, num: int) -> str:
@@ -34,4 +35,3 @@ class Solution:
             num %= n
 
         return rnum
-
