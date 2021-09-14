@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Roman to Integer",
+Solution of the easy problem
 https://leetcode.com/problems/roman-to-integer/
+"Roman to Integer"
 """
 class Solution:
     def romanToInt(self, s: str) -> int:
@@ -34,4 +35,3 @@ class Solution:
                 num += n
                 s = s[len(d):]
         return num
-
