@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Longest Common Prefix",
+Solution of the easy problem
 https://leetcode.com/problems/longest-common-prefix/
+"Longest Common Prefix"
 """
 from typing import List
 
@@ -31,4 +32,3 @@ class Solution:
             prefix += strs[0][i]
 
         return prefix
-
