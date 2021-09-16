@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "3Sum",
+Solution of the medium problem
 https://leetcode.com/problems/3sum/
+"3Sum"
 """
 from typing import List
 
@@ -47,4 +48,3 @@ class Solution:
                     trs[a, b, c] = [a, b, c]
 
         return list(trs.values())
-
