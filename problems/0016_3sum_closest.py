@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "3Sum Closest",
+Solution of the medium problem
 https://leetcode.com/problems/3sum-closest/
+"3Sum Closest"
 """
 from typing import List
 
@@ -19,8 +20,8 @@ class Solution:
         13
 
         """
-        n = len(nums)
         nums.sort()
+        n = len(nums)
         diff = float('inf')
 
         for i in range(n):
@@ -37,4 +38,3 @@ class Solution:
                 break
 
         return target - diff
-
