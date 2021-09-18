@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Letter Combinations of a Phone Number",
+Solution of the medium problem
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+"Letter Combinations of a Phone Number"
 """
 from typing import List
 
@@ -42,4 +43,3 @@ class Solution:
                 combs.append(l + c)
 
         return combs
-
