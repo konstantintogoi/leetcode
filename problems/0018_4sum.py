@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "4Sum",
+Solution of the medium problem
 https://leetcode.com/problems/4sum/
+"4Sum"
 """
 from typing import List
 
@@ -49,4 +50,3 @@ class Solution:
                             quadruplets[a, b, c, d] = [a, b, c, d]
 
         return [q for _, q in quadruplets.items()]
-
