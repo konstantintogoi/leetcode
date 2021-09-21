@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Valid Parentheses",
+Solution of the easy problem
 https://leetcode.com/problems/valid-parentheses/
+"Valid Parentheses"
 """
 class Solution:
     def isValid(self, s: str) -> bool:
@@ -20,8 +21,8 @@ class Solution:
         False
 
         """
-        pairs = {')': '(', '}': '{', ']': '['}
         pars = []
+        pairs = {')': '(', '}': '{', ']': '['}
 
         for c in s:
             if c in pairs and not pars:
@@ -34,4 +35,3 @@ class Solution:
                 pars.append(c)
 
         return not pars
-
