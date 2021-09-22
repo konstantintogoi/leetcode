@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Merge Two Sorted Lists",
+Solution of the easy problem
 https://leetcode.com/problems/merge-two-sorted-lists/
+"Merge Two Sorted Lists"
 """
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -65,4 +66,3 @@ class Solution:
             l2 = l2.next
 
         return root.next
-
