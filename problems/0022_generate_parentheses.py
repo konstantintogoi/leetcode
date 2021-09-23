@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Generate Parentheses",
+Solution of the medium problem
 https://leetcode.com/problems/generate-parentheses/
+"Generate Parentheses"
 """
 from typing import List
 
@@ -38,4 +39,3 @@ class Solution:
             return memo[m]
 
         return dp(n)
-
