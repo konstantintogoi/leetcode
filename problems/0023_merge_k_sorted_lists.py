@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Merge k Sorted Lists",
+Solution of the hard problem
 https://leetcode.com/problems/merge-k-sorted-lists/
+"Merge k Sorted Lists"
 """
 from typing import List
 
@@ -46,4 +47,3 @@ class Solution:
                 del lists[im]
 
         return root.next
-
