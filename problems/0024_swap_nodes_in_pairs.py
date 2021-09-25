@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Swap Nodes in Pairs",
+Solution of the medium problem
 https://leetcode.com/problems/swap-nodes-in-pairs/
+"Swap Nodes in Pairs"
 """
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -38,4 +39,3 @@ class Solution:
             snd = fst.next if fst else None
 
         return root
-
