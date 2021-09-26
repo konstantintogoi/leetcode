@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Reverse Nodes in k-Group",
+Solution of the hard problem
 https://leetcode.com/problems/reverse-nodes-in-k-group/
+"Reverse Nodes in k-Group"
 """
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -60,4 +61,3 @@ class Solution:
             ptrs = ps
 
         return root
-
