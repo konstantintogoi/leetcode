@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Remove Duplicates from Sorted Array",
+Solution of the easy problem
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+"Remove Duplicates from Sorted Array"
 """
 from typing import List
 
@@ -33,4 +34,3 @@ class Solution:
             nums.pop()
 
         return pos
-
