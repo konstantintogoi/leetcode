@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Remove Element",
+Solution of the easy problem
 https://leetcode.com/problems/remove-element/
+"Remove Element"
 """
 from typing import List
 
@@ -29,4 +30,3 @@ class Solution:
                 i += 1
 
         return len(nums)
-
