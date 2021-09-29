@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Implement strStr()",
+Solution of the easy problem
 https://leetcode.com/problems/implement-strstr/
+"Implement strStr()"
 """
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
@@ -27,4 +28,3 @@ class Solution:
                 return i
 
         return -1
-
