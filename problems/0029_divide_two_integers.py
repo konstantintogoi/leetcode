@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Divide Two Integers",
+Solution of the medium problem
 https://leetcode.com/problems/divide-two-integers/
+"Divide Two Integers"
 """
 class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
@@ -44,4 +45,3 @@ class Solution:
                 i += i
 
         return -quotient if signed else quotient
-
