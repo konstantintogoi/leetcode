@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Substring with Concatenation of All Words",
+Solution of the hard problem
 https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+"Substring with Concatenation of All Words"
 """
 from collections import defaultdict
 from typing import List
@@ -51,4 +52,3 @@ class Solution:
                 answer.append(i)
 
         return answer
-
