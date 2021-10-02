@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Next Permutation",
+Solution of the medium problem
 https://leetcode.com/problems/next-permutation/
+"Next Permutation"
 """
 from typing import List
 
@@ -54,4 +55,3 @@ class Solution:
             nums[l], nums[r] = nums[r], nums[l]
             l += 1
             r -= 1
-
