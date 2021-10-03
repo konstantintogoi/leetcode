@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Longest Valid Parentheses",
+Solution of the hard problem
 https://leetcode.com/problems/longest-valid-parentheses/
+"Longest Valid Parentheses"
 """
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
@@ -24,4 +25,3 @@ class Solution:
                 stack.pop()
                 ans = max(ans, i - stack[-1])
         return ans
-
