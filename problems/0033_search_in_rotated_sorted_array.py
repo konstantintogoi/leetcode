@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Search in Rotated Sorted Array",
+Solution of the medium problem
 https://leetcode.com/problems/search-in-rotated-sorted-array/
+"Search in Rotated Sorted Array"
 """
 from typing import List
 
@@ -40,4 +41,3 @@ class Solution:
                     l = mid + 1
 
         return -1
-
