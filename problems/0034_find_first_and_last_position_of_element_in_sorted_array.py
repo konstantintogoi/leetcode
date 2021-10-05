@@ -1,7 +1,7 @@
 """
-Solution of the medium problem -
-"Find First and Last Position of Element in Sorted Array",
+Solution of the medium problem
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+"Find First and Last Position of Element in Sorted Array"
 """
 from typing import List
 
@@ -51,4 +51,3 @@ class Solution:
         hi = l
 
         return [lo, hi]
-
