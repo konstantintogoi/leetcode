@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Search Insert Position",
+Solution of the easy problem
 https://leetcode.com/problems/search-insert-position/
+"Search Insert Position"
 """
 from typing import List
 
@@ -31,4 +32,3 @@ class Solution:
                 r = mid
 
         return r
-
