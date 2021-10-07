@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Valid Sudoku",
+Solution of the medium problem
 https://leetcode.com/problems/valid-sudoku/
+"Valid Sudoku"
 """
 from typing import List
 
@@ -69,4 +70,3 @@ class Solution:
                     return False
 
         return True
-
