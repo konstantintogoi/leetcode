@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Sudoku Solver",
+Solution of the hard problem
 https://leetcode.com/problems/sudoku-solver/
+"Sudoku Solver"
 """
 from collections import defaultdict
 from typing import List
@@ -83,4 +84,3 @@ class Solution:
             return False
 
         dfs()
-
