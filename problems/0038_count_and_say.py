@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Count and Say",
+Solution of the medium problem
 https://leetcode.com/problems/count-and-say/
+"Count and Say"
 """
 class Solution:
     def countAndSay(self, n: int) -> str:
@@ -16,4 +17,3 @@ class Solution:
             cnts[c, pos] += 1
 
         return ''.join(str(cnts[c, pos]) + c for c, pos in cnts)
-
