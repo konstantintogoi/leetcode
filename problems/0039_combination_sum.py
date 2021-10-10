@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Combination Sum",
+Solution of the medium problem
 https://leetcode.com/problems/combination-sum/
+"Combination Sum"
 """
 from typing import List, Set, Tuple
 
@@ -51,4 +52,3 @@ class Solution:
         memo[target] = combs
 
         return memo[target]
-
