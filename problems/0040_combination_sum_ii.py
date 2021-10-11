@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Combination Sum II",
+Solution of the medium problem
 https://leetcode.com/problems/combination-sum-ii/
+"Combination Sum II"
 """
 from collections import Counter
 from typing import List, Set, Tuple
@@ -62,4 +63,3 @@ class Solution:
         memo[target, candidates] = combs
 
         return memo[target, candidates]
-
