@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "First Missing Positive",
+Solution of the hard problem
 https://leetcode.com/problems/first-missing-positive/
+"First Missing Positive"
 """
 from typing import List
 
@@ -30,4 +31,3 @@ class Solution:
         for i in range(1, maxnum + 2):
             if i not in posnums:
                 return i
-
