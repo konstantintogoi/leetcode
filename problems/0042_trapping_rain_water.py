@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Trapping Rain Water",
+Solution of the hard problem
 https://leetcode.com/problems/trapping-rain-water/
+"Trapping Rain Water"
 """
 from typing import List
 
@@ -24,8 +25,8 @@ class Solution:
         83
 
         """
-        height.insert(0, 0)
         height.append(0)
+        height.insert(0, 0)
 
         peaks = []
         for i in range(1, len(height) - 1):
@@ -54,4 +55,3 @@ class Solution:
                 cnt += diff
 
         return cnt
-
