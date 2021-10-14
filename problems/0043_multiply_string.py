@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Multiply Strings",
+Solution of the medium problem
 https://leetcode.com/problems/multiply-strings/
+"Multiply Strings"
 """
 class Solution:
     def multiply(self, num1: str, num2: str) -> str:
@@ -76,4 +77,3 @@ class Solution:
             j -= 1
 
         return summ
-
