@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Wildcard Matching",
+Solution of the hard problem
 https://leetcode.com/problems/wildcard-matching/
+"Wildcard Matching"
 """
 from functools import lru_cache
 
@@ -37,4 +38,3 @@ class Solution:
             return self.isMatch(s[1:], p[1:])
         else:
             return False
-
