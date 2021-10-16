@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Jump Game II",
+Solution of the medium problem
 https://leetcode.com/problems/jump-game-ii/
+"Jump Game II"
 """
 from typing import List
 
@@ -38,4 +39,3 @@ class Solution:
             return memo[pos]
 
         return dp(0)
-
