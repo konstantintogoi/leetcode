@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Permutations II",
+Solution of the medium problem
 https://leetcode.com/problems/permutations-ii/
+"Permutations II"
 """
 from typing import List
 
@@ -34,4 +35,3 @@ class Solution:
 
         memo[nums] = permutations
         return permutations
-
