@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Group Anagrams",
+Solution of the medium problem
 https://leetcode.com/problems/group-anagrams/
+"Group Anagrams"
 """
 from collections import defaultdict
 from typing import List
@@ -26,4 +27,3 @@ class Solution:
             anagrams[tuple(sorted(s))].append(s)
 
         return list(anagrams.values())
-
