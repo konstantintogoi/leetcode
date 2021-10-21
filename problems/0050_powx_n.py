@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Pow(x, n)",
+Solution of the medium problem
 https://leetcode.com/problems/powx-n/
+"Pow(x, n)"
 """
 class Solution:
     def myPow(self, x: float, n: int) -> float:
@@ -29,4 +30,3 @@ class Solution:
             n /= 2
 
         return 1 / xpow if sign else xpow
-
