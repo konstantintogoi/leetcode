@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Maximum Subarray",
+Solution of the easy problem
 https://leetcode.com/problems/maximum-subarray/
+"Maximum Subarray"
 """
 from typing import List
 
@@ -32,4 +33,3 @@ class Solution:
             cumsums.append(0 if cumsum < 0 else cumsum)
 
         return maxsum
-
