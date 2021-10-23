@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Length of Last Word",
+Solution of the easy problem
 https://leetcode.com/problems/length-of-last-word/
+"Length of Last Word"
 """
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
@@ -32,4 +33,3 @@ class Solution:
                 start, stop = i, i
 
         return lastlen
-
