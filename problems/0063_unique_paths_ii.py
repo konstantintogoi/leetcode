@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Unique Paths II",
+Solution of the medium problem
 https://leetcode.com/problems/unique-paths-ii/
+"Unique Paths II"
 """
 from typing import List
 
@@ -71,4 +72,3 @@ class Solution:
                 grid[i][j] = 0 if obstacleGrid[i][j] else ways
 
         return grid[m - 1][n - 1]
-
