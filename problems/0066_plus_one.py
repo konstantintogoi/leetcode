@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Plus One",
+Solution of the easy problem
 https://leetcode.com/problems/plus-one/
+"Plus One"
 """
 from typing import List
 
@@ -34,4 +35,3 @@ class Solution:
             digits.insert(0, 1)
 
         return digits
-
