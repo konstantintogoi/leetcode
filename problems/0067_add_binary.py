@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Add Binary",
+Solution of the easy problem
 https://leetcode.com/problems/add-binary/
+"Add Binary"
 """
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
@@ -23,4 +24,3 @@ class Solution:
             i += 1
 
         return s
-
