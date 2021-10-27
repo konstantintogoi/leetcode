@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Sqrt(x)",
+Solution of the easy problem
 https://leetcode.com/problems/sqrtx/
+"Sqrt(x)"
 """
 class Solution:
     def mySqrt(self, x: int) -> int:
@@ -36,4 +37,3 @@ class Solution:
                 return mid
 
         return l
-
