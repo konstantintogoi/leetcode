@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Climbing Stairs",
+Solution of the easy problem
 https://leetcode.com/problems/climbing-stairs/
+"Climbing Stairs"
 """
 class Solution:
     def climbingStairs(self, n: int) -> int:
@@ -23,4 +24,3 @@ class Solution:
         for i in range(3, n):
             table.append(table[i - 2] + table[i - 1])
         return table[n - 1]
-
