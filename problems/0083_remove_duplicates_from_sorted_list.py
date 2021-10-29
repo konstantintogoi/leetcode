@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Remove Duplicates from Sorted List",
+Solution of the easy problem
 https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+"Remove Duplicates from Sorted List"
 """
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -35,4 +36,3 @@ class Solution:
                 node.next = node.next.next
             node = node.next
         return head
-
