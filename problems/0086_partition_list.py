@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Partition List",
+Solution of the medium problem
 https://leetcode.com/problems/partition-list/
+"Partition List"
 """
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -55,4 +56,3 @@ class Solution:
         right.next = None
 
         return lefthead.next
-
