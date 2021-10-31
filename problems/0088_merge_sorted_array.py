@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Merge Sorted Array",
+Solution of the easy problem
 https://leetcode.com/problems/merge-sorted-array/
+"Merge Sorted Array"
 """
 from typing import List
 
@@ -34,4 +35,3 @@ class Solution:
             k -= 1
 
         return nums1
-
