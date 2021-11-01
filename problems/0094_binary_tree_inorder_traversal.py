@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Binary Tree Inorder Traversal",
+Solution of the easy problem
 https://leetcode.com/problems/binary-tree-inorder-traversal/
+"Binary Tree Inorder Traversal"
 """
 from typing import List
 
@@ -60,4 +61,3 @@ class Solution:
         self.bfs(node.right, table)
 
         return table
-
