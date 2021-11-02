@@ -1,7 +1,7 @@
 """
-Solution of the easy problem -
-"Same Tree",
+Solution of the easy problem
 https://leetcode.com/problems/same-tree/
+"Same Tree"
 """
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
@@ -60,4 +60,3 @@ class Solution:
                 queue.insert(0, (node.right, level + 1))
 
         return heap
-
