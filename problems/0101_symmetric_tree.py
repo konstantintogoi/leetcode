@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Symmetric Tree",
+Solution of the easy problem
 https://leetcode.com/problems/symmetric-tree/
+"Symmetric Tree"
 """
 from typing import Optional
 
@@ -81,4 +82,3 @@ class Solution:
             return vals
 
         return root and lbfs(root.left) == rbfs(root.right)
-
