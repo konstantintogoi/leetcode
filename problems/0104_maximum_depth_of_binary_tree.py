@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Maximum Depth of Binary Tree",
+Solution of the easy problem
 https://leetcode.com/problems/maximum-depth-of-binary-tree/
+"Maximum Depth of Binary Tree"
 """
 from typing import Optional
 
@@ -54,4 +55,3 @@ class Solution:
                 queue.insert(0, (depth + 1, node.right))
 
         return maxdepth
-
