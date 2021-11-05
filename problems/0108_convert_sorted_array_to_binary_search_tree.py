@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Convert Sorted Array to Binary Search Tree",
+Solution of the easy problem
 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+"Convert Sorted Array to Binary Search Tree"
 """
 from typing import List, Optional
 
@@ -53,4 +54,3 @@ class Solution:
         right = self.sortedArrayToBST(nums[n // 2 + 1:])
 
         return TreeNode(midval, left, right)
-
