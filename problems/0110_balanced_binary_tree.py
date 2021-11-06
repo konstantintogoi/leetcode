@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Balanced Binary Tree",
+Solution of the easy problem
 https://leetcode.com/problems/balanced-binary-tree/
+"Balanced Binary Tree"
 """
 from typing import Optional
 
@@ -85,4 +86,3 @@ class Solution:
                 queue.insert(0, (depth + 1, node.right))
 
         return maxdepth
-
