@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Minimum Depth of Binary Tree",
+Solution of the easy problem
 https://leetcode.com/problems/minimum-depth-of-binary-tree/
+"Minimum Depth of Binary Tree"
 """
 from typing import Optional
 
@@ -68,4 +69,3 @@ class Solution:
                 queue.insert(0, (node.right, depth + 1))
 
         return mindepth if root else 0
-
