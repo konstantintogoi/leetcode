@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Path Sum",
+Solution of the easy problem
 https://leetcode.com/problems/path-sum/
+"Path Sum"
 """
 from typing import Optional
 
@@ -60,4 +61,3 @@ class Solution:
                 queue.insert(0, node.right)
 
         return targetSum in pathsums
-
