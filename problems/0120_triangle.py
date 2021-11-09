@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Triangle",
+Solution of the medium problem
 https://leetcode.com/problems/triangle/
+"Triangle"
 """
 from typing import List
 
@@ -25,4 +26,3 @@ class Solution:
                 triangle[i][j] += min(l, r)
 
         return min(triangle[-1])
-
