@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Find Minimum in Rotated Sorted Array",
+Solution of the medium problem
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+"Find Minimum in Rotated Sorted Array"
 """
 from typing import List
 
@@ -21,4 +22,3 @@ class Solution:
             if nums[i] < nums[i - 1]:
                 return nums[i]
         return nums[0]
-
