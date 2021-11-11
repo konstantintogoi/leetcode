@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Find Minimum in Rotated Sorted Array II",
+Solution of the hard problem
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+"Find Minimum in Rotated Sorted Array II"
 """
 from typing import List
 
@@ -26,4 +27,3 @@ class Solution:
             return min(a, b)
 
         return dp(0, len(nums))
-
