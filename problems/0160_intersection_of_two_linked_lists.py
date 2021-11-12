@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Intersection of Two Linked Lists",
+Solution of the easy problem
 https://leetcode.com/problems/intersection-of-two-linked-lists/
+"Intersection of Two Linked Lists"
 """
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -58,4 +59,3 @@ class Solution:
             headA = headA.next
             headB = headB.next
         return headA
-
