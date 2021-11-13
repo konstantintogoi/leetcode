@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Find Peak Element",
+Solution of the medium problem
 https://leetcode.com/problems/find-peak-element/
+"Find Peak Element"
 """
 from typing import List
 
@@ -27,4 +28,3 @@ class Solution:
         for i in range(1, len(nums) - 1):
             if nums[i - 1] < nums[i] > nums[i + 1]:
                 return i - 1
-
