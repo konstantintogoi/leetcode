@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Two Sum II - Input array is sorted",
+Solution of the easy problem
 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+"Two Sum II - Input array is sorted"
 """
 from typing import List
 
@@ -34,4 +35,3 @@ class Solution:
 
             if i != r and numbers[r] == trg:
                 return [min(i + 1, r + 1), max(i + 1, r + 1)]
-
