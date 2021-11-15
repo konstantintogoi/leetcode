@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Majority Element",
+Solution of the easy problem
 https://leetcode.com/problems/majority-element/
+"Majority Element"
 """
 from typing import List
 
@@ -49,4 +50,3 @@ class Solution:
                 count = 1
 
         return nums[index]
-
