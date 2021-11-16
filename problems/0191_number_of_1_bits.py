@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Number of 1 Bits",
+Solution of the easy problem
 https://leetcode.com/problems/number-of-1-bits/
+"Number of 1 Bits"
 """
 class Solution:
     def hammingWeight(self, n: int) -> int:
@@ -19,4 +20,3 @@ class Solution:
             c += n % 2
             n = n // 2
         return c
-
