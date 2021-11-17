@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Palindrome Linked List",
+Solution of the easy problem
 https://leetcode.com/problems/palindrome-linked-list/
+"Palindrome Linked List"
 """
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -40,4 +41,3 @@ class Solution:
             i += 1
             j -= 1
         return True
-
