@@ -1,6 +1,7 @@
 """
-Solution of "Strobogrammatic Number" problem at
+Solution of the easy problem
 https://leetcode.com/problems/strobogrammatic-number/
+"Strobogrammatic Number"
 """
 class Solution:
     def isStrobogrammatic(self, num: str) -> bool:
@@ -33,4 +34,3 @@ class Solution:
             if d != num[i]:
                 return False
         return True
-
