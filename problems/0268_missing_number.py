@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Missing Number",
+Solution of the easy problem
 https://leetcode.com/problems/missing-number/
+"Missing Number"
 """
 from typing import List
 
@@ -20,4 +21,3 @@ class Solution:
 
         """
         return len(nums) * (len(nums) + 1) // 2 - sum(nums)
-
