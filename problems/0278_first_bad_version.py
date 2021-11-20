@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "First Bad Version",
+Solution of the easy problem
 https://leetcode.com/problems/first-bad-version/
+"First Bad Version"
 """
 class Solution:
     def firstBadVersion(self, n, bad=None):
@@ -25,4 +26,3 @@ class Solution:
                 l = mid
 
         return r
-
