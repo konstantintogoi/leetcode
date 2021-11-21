@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Find the Duplicate Number",
+Solution of the medium problem
 https://leetcode.com/problems/find-the-duplicate-number/
+"Find the Duplicate Number"
 """
 from typing import List
 
@@ -26,4 +27,3 @@ class Solution:
             if num in seen:
                 return num
             seen.add(num)
-
