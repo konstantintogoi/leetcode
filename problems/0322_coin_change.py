@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Coin Change",
+Solution of the medium problem
 https://leetcode.com/problems/coin-change/
+"Coin Change"
 """
 from typing import List
 
@@ -40,4 +41,3 @@ class Solution:
 
         ncoins = dp(amount) if amount else 0
         return -1 if ncoins == float('inf') else ncoins
-
