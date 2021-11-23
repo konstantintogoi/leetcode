@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Power of Three",
+Solution of the easy problem
 https://leetcode.com/problems/power-of-three/
+"Power of Three"
 """
 class Solution:
     def isPowerOfThree(self, n: int) -> bool:
@@ -22,4 +23,3 @@ class Solution:
             i *= 3
             if i > n: break
         return False
-
