@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Longest Increasing Path in a Matrix",
+Solution of the hard problem
 https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+"Longest Increasing Path in a Matrix"
 """
 from collections import defaultdict
 from typing import List
@@ -62,4 +63,3 @@ class Solution:
                 maxdist = max(maxdist, dfs(i, j, -1))
 
         return maxdist
-
