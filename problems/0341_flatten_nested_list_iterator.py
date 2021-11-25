@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Flatten Nested List Iterator",
+Solution of the medium problem
 https://leetcode.com/problems/flatten-nested-list-iterator/
+"Flatten Nested List Iterator"
 """
 from typing import List
 
@@ -76,4 +77,3 @@ class NestedIterator:
 
     def hasNext(self) -> bool:
         return bool(self.items)
-
