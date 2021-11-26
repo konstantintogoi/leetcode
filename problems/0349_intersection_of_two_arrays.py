@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Intersection of Two Arrays",
+Solution of the easy problem
 https://leetcode.com/problems/intersection-of-two-arrays/
+"Intersection of Two Arrays"
 """
 from typing import List
 
@@ -16,4 +17,3 @@ class Solution:
 
         """
         return list(set(nums1) & set(nums2))
-
