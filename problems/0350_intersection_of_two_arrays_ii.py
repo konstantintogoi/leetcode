@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Intersection of Two Arrays II",
+Solution of the easy problem
 https://leetcode.com/problems/intersection-of-two-arrays-ii/
+"Intersection of Two Arrays II"
 """
 from typing import List
 
@@ -32,4 +33,3 @@ class Solution:
                 j += 1
 
         return ans
-
