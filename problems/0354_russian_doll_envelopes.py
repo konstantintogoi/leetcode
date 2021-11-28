@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Russian Doll Envelopes",
+Solution of the hard problem
 https://leetcode.com/problems/russian-doll-envelopes/
+"Russian Doll Envelopes"
 """
 from bisect import bisect_left
 from typing import List
@@ -24,4 +25,3 @@ class Solution:
             if left == len(dp): dp.append(height)
             else: dp[left] = height
         return len(dp)
-
