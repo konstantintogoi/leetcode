@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Valid Perfect Square",
+Solution of the easy problem
 https://leetcode.com/problems/valid-perfect-square/
+"Valid Perfect Square"
 """
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
@@ -20,4 +21,3 @@ class Solution:
             else:
                 r = mid
         return r * r == num
-
