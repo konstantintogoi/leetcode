@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Guess Number Higher or Lower",
+Solution of the easy problem
 https://leetcode.com/problems/guess-number-higher-or-lower/
+"Guess Number Higher or Lower"
 """
 class Solution:
     def guessNumber(self, n: int) -> int:
@@ -40,4 +41,3 @@ class Solution:
             else:
                 return m
         return -1
-
