@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Wiggle Subsequence",
+Solution of the medium problem
 https://leetcode.com/problems/wiggle-subsequence/
+"Wiggle Subsequence"
 """
 from typing import List
 
@@ -53,4 +54,3 @@ class Solution:
             return memo[i, j]
 
         return dp(0, len(nums))
-
