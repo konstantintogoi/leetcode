@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Partition Equal Subset Sum",
+Solution of the medium problem
 https://leetcode.com/problems/partition-equal-subset-sum/
+"Partition Equal Subset Sum"
 """
 from typing import List
 
@@ -34,4 +35,3 @@ class Solution:
                         table[w][i] = val
 
         return psum == table[W - 1][n - 1]
-
