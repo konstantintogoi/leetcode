@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Pacific Atlantic Water Flow",
+Solution of the medium problem
 https://leetcode.com/problems/pacific-atlantic-water-flow/
+"Pacific Atlantic Water Flow"
 """
 from typing import List
 
@@ -55,4 +56,3 @@ class Solution:
             dfs(ac, m - 1, j)
 
         return pcac
-
