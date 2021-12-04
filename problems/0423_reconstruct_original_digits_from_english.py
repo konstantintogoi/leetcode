@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Reconstruct Original Digits from English",
+Solution of the medium problem
 https://leetcode.com/problems/reconstruct-original-digits-from-english/
+"Reconstruct Original Digits from English"
 """
 from collections import Counter
 
@@ -32,4 +33,3 @@ class Solution:
         cs['1'] = c['n'] - cs['7'] - 2 * cs['9']
 
         return ''.join([key * cs[key] for key in sorted(cs.keys())])
-
