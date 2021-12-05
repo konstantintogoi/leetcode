@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Ones and Zeroes",
+Solution of the medium problem
 https://leetcode.com/problems/ones-and-zeroes/
+"Ones and Zeroes"
 """
 from typing import List
 
@@ -28,4 +29,3 @@ class Solution:
                     )
 
         return dp[m][n]
-
