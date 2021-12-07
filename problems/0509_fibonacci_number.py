@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Fibonacci Number",
+Solution of the easy problem
 https://leetcode.com/problems/fibonacci-number/
+"Fibonacci Number"
 """
 class Solution:
     def fib(self, n: int) -> int:
@@ -41,4 +42,3 @@ class Solution:
             curr = fsum
 
         return fsum
-
