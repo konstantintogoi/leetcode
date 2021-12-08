@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Encode and Decode TinyURL",
+Solution of the medium problem
 https://leetcode.com/problems/encode-and-decode-tinyurl/
+"Encode and Decode TinyURL"
 """
 class Codec:
     """Codec.
@@ -16,4 +17,3 @@ class Codec:
 
     def decode(self, shortUrl: str) -> str:
         return shortUrl
-
