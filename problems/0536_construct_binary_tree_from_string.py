@@ -1,6 +1,7 @@
 """
-Solution of "Construct Binary Tree from String" problem at
+Solution of the medium problem
 https://leetcode.com/problems/construct-binary-tree-from-string/
+"Construct Binary Tree from String"
 """
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
@@ -79,4 +80,3 @@ class Solution:
         next(it, None)  # close second bracket
 
         return head
-
