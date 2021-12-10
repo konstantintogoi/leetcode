@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Brick Wall",
+Solution of the medium problem
 https://leetcode.com/problems/brick-wall/
+"Brick Wall"
 """
 from collections import defaultdict
 from typing import List
@@ -39,4 +40,3 @@ class Solution:
 
         bricks.pop(n)
         return min(bricks.values())
-
