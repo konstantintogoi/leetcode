@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Distribute Candies",
+Solution of the easy problem
 https://leetcode.com/problems/distribute-candies/
+"Distribute Candies"
 """
 from typing import List
 
@@ -23,4 +24,3 @@ class Solution:
         while len(types) < halfn and candyType:
             types.add(candyType.pop())
         return len(types)
-
