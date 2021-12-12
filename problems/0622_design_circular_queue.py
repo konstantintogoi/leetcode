@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Design Circular Queue",
+Solution of the medium problem
 https://leetcode.com/problems/design-circular-queue/
+"Design Circular Queue"
 """
 class MyCircularQueue:
     """Circular Queue.
@@ -146,4 +147,3 @@ class MyCircularQueue:
 
     def isFull(self) -> bool:
         return self.n >= self.k
-
