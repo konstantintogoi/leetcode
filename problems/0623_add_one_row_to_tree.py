@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Add One Row to Tree",
+Solution of the medium problem
 https://leetcode.com/problems/add-one-row-to-tree/
+"Add One Row to Tree"
 """
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
@@ -72,4 +73,3 @@ class Solution:
                 queue.insert(0, (node.right, level + 1))
 
         return root
-
