@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Average Levels in Binary Tree",
+Solution of the easy problem
 https://leetcode.com/problems/average-of-levels-in-binary-tree/
+"Average Levels in Binary Tree"
 """
 from typing import List
 
@@ -54,4 +55,3 @@ class Solution:
                 queue.insert(0, (node.right, level + 1))
 
         return [sum(vs)/len(vs) for vs in vals.values()]
-
