@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Set Mismatch",
+Solution of the easy problem
 https://leetcode.com/problems/set-mismatch/
+"Set Mismatch"
 """
 from typing import List
 
@@ -28,4 +29,3 @@ class Solution:
                 distinctnums.add(num)
                 sumnums += num
         return [duplicate, n * (n + 1) // 2 - sumnums]
-
