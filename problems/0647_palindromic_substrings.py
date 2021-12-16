@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Palindromic Substrings",
+Solution of the medium problem
 https://leetcode.com/problems/palindromic-substrings/
+"Palindromic Substrings"
 """
 class Solution:
     def countSubstrings(self, s: str) -> int:
@@ -32,4 +33,3 @@ class Solution:
             memo[i, j] = False
 
         return memo[i, j]
-
