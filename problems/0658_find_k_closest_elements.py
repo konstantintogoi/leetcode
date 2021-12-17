@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Find K Closest Elements",
+Solution of the medium problem
 https://leetcode.com/problems/find-k-closest-elements/
+"Find K Closest Elements"
 """
 from typing import List
 
@@ -45,4 +46,3 @@ class Solution:
                 return ans
 
         return ans
-
