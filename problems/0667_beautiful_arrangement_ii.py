@@ -1,6 +1,7 @@
 """
-Solution of the meduim problem - "Beautiful Arrangement II",
+Solution of the meduim problem
 https://leetcode.com/problems/beautiful-arrangement-ii/
+"Beautiful Arrangement II"
 """
 from typing import List
 
@@ -30,4 +31,3 @@ class Solution:
             ans[i] = i + 1
 
         return ans
-
