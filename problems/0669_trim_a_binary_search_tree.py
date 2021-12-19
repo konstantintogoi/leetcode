@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Trim a Binary Search Tree",
+Solution of the medium problem
 https://leetcode.com/problems/trim-a-binary-search-tree/
+"Trim a Binary Search Tree"
 """
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
