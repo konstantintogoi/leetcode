@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Count Binary Substrings",
+Solution of the easy problem
 https://leetcode.com/problems/count-binary-substrings/
+"Count Binary Substrings"
 """
 from itertools import groupby
 
@@ -24,4 +25,3 @@ class Solution:
             cnt += min(len(ss), len(subs))
             subs = ss
         return cnt
-
