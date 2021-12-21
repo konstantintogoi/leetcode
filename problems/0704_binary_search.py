@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Binary Search",
+Solution of the easy problem
 https://leetcode.com/problems/binary-search/
+"Binary Search"
 """
 from typing import List
 
@@ -26,4 +27,3 @@ class Solution:
                 return m
 
         return -1
-
