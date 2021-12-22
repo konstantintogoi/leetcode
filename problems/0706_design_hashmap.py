@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - 'Design Hashmap',
+Solution of the easy problem
 https://leetcode.com/problems/design-hashmap/
+"Design Hashmap"
 """
 class HashMap:
     """Hash Map.
@@ -67,4 +68,3 @@ class HashMap:
             if pair and pair[0] == key:
                 self.table[hkey][i] = None
                 return
-
