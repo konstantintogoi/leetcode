@@ -1,7 +1,7 @@
 """
-Solution of the medium problem -
-"Best Time to Buy and Sell Stock with Transaction Fee",
+Solution of the medium problem
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+"Best Time to Buy and Sell Stock with Transaction Fee"
 """
 from typing import List
 
@@ -21,4 +21,3 @@ class Solution:
             cash = max(cash, hold + prices[i] - fee)
             hold = max(hold, cash - prices[i])
         return cash
-
