@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Find Smallest Letter Greater Than Target",
+Solution of the easy problem
 https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+"Find Smallest Letter Greater Than Target"
 """
 from typing import List
 
@@ -31,4 +32,3 @@ class Solution:
             else:
                 r = mid
         return letters[r] if r < len(letters) else letters[0]
-
