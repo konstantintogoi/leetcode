@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Global and Local Inversions",
+Solution of the medium problem
 https://leetcode.com/problems/global-and-local-inversions/
+"Global and Local Inversions"
 """
 from typing import List
 
@@ -19,4 +20,3 @@ class Solution:
             if i - A[i] > 1 or i - A[i] < -1:
                 return False
         return True
-
