@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Short Encoding of Words",
+Solution of the medium problem
 https://leetcode.com/problems/short-encoding-of-words/
+"Short Encoding of Words"
 """
 from typing import List
 
@@ -29,4 +30,3 @@ class Solution:
             else:
                 encword += curword
         return len(encword)
-
