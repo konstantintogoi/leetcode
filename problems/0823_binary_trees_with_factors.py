@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Binary Tree With Factors",
+Solution of the medium problem
 https://leetcode.com/problems/binary-trees-with-factors/
+"Binary Tree With Factors"
 """
 from typing import List, Set
 
@@ -61,4 +62,3 @@ class Solution:
 
         memo[n] = cnt
         return cnt
-
