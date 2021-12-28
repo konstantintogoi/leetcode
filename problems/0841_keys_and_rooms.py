@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Keys and Rooms",
+Solution of the medium problem
 https://leetcode.com/problems/keys-and-rooms/
+"Keys and Rooms"
 """
 from typing import List
 
@@ -27,4 +28,3 @@ class Solution:
 
         dfs(0)
         return len(colors) == len(rooms)
-
