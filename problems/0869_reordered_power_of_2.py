@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Reordered Power of 2",
+Solution of the medium problem
 https://leetcode.com/problems/reordered-power-of-2/
+"Reordered Power of 2"
 """
 from itertools import permutations
 
@@ -30,4 +31,3 @@ class Solution:
                 continue
             return True
         return False
-
