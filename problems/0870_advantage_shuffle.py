@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Advantage Shuffle",
+Solution of the medium problem
 https://leetcode.com/problems/advantage-shuffle/
+"Advantage Shuffle"
 """
 from collections import deque
 from typing import List
@@ -24,4 +25,3 @@ class Solution:
             c[b[i]] = a.pop() if B[b[i]] < a[-1] else a.popleft()
 
         return c
-
