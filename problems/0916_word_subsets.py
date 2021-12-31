@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Word Subsets",
+Solution of the medium problem
 https://leetcode.com/problems/word-subsets/
+"Word Subsets"
 """
 from collections import Counter
 from typing import List
@@ -50,4 +51,3 @@ class Solution:
                 uwords.append(a)
 
         return uwords
-
