@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "3Sum With Multiplicity",
+Solution of the medium problem
 https://leetcode.com/problems/3sum-with-multiplicity/
+"3Sum With Multiplicity"
 """
 from functools import lru_cache
 from typing import List
@@ -30,4 +31,3 @@ class Solution:
         ans = dp(3, target, len(arr) - 1)
         dp.cache_clear()
         return ans % 1000000007
-
