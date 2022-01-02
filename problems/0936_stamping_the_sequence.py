@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Stamping The Sequence",
+Solution of the hard problem
 https://leetcode.com/problems/stamping-the-sequence/
+"Stamping The Sequence"
 """
 from collections import deque
 from typing import List
@@ -55,4 +56,3 @@ class Solution:
                                 done[k] = True
 
         return ans[::-1] if all(done) else []
-
