@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Verifying an Alien Dictionary",
+Solution of the easy problem
 https://leetcode.com/problems/verifying-an-alien-dictionary/
+"Verifying an Alien Dictionary"
 """
 from functools import cmp_to_key
 from typing import List
@@ -38,4 +39,3 @@ class Solution:
             return 0
 
         return words == sorted(words, key=cmp_to_key(cmp))
-
