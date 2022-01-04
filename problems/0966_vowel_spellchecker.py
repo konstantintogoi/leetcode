@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Vowel Spellchecker",
+Solution of the medium problem
 https://leetcode.com/problems/vowel-spellchecker/
+"Vowel Spellchecker"
 """
 from typing import List
 
@@ -51,4 +52,3 @@ class Solution:
             answers[i] = wordlist[j]
 
         return answers
-
