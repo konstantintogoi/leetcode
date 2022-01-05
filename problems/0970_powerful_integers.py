@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Powerful Integers",
+Solution of the medium problem
 https://leetcode.com/problems/powerful-integers/
+"Powerful Integers"
 """
 from typing import List
 
@@ -44,4 +45,3 @@ class Solution:
                 if integer <= bound:
                     ans.add(integer)
         return list(ans)
-
