@@ -1,7 +1,7 @@
 """
-Solution of the medium problem -
-"Flip Binary Tree To Match Preorder Traversal",
+Solution of the medium problem
 https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
+"Flip Binary Tree To Match Preorder Traversal"
 """
 from typing import List
 
@@ -68,4 +68,3 @@ class Solution:
             return i
 
         return flipped if dfs(root, 0) == n else [-1]
-
