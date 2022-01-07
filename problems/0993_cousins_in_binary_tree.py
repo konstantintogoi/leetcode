@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Cousins in Binary Tree",
+Solution of the easy problem
 https://leetcode.com/problems/cousins-in-binary-tree/
+"Cousins in Binary Tree"
 """
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
@@ -61,4 +62,3 @@ class Solution:
             return self.bfs(val, queue=queue)
 
         return -1, None
-
