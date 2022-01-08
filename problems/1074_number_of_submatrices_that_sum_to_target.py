@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Number of Submatrices That Sum to Target",
+Solution of the hard problem
 https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+"Number of Submatrices That Sum to Target"
 """
 from collections import defaultdict
 from typing import List
