@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Parallel Courses",
+Solution of the medium problem
 https://leetcode.com/problems/parallel-courses/
+"Parallel Courses"
 """
 from typing import List
 
@@ -41,4 +42,3 @@ class Solution:
             if l == -1: return -1
             length = max(l, length)
         return length
-
