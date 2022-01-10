@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Single-Row Keyboard",
+Solution of the easy problem
 https://leetcode.com/problems/single-row-keyboard/
+"Single-Row Keyboard"
 """
 class Solution:
     def calculateTime(self, keyboard: str, word: str) -> int:
@@ -17,4 +18,3 @@ class Solution:
         for i in range(1, len(word)):
             time += abs(abc[word[i]] - abc[word[i - 1]])
         return time
-
