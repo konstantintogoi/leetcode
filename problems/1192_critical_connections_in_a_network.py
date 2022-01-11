@@ -1,6 +1,7 @@
 """
-Solution of the hard problem - "Critical Connections in a Network",
+Solution of the hard problem
 https://leetcode.com/problems/critical-connections-in-a-network/
+"Critical Connections in a Network"
 """
 from collections import defaultdict
 from typing import List
@@ -46,4 +47,3 @@ class Solution:
 
         dfs(0, -1, 1)
         return ans
-
