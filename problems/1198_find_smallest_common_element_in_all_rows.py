@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Find Smallest Common Element in All Rows",
+Solution of the medium problem
 https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
+"Find Smallest Common Element in All Rows"
 """
 from typing import List
 
@@ -36,4 +37,3 @@ class Solution:
             isn = tmp
 
         return isn[0] if isn else -1
-
