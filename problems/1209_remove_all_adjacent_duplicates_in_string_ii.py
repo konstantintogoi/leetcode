@@ -1,7 +1,7 @@
 """
-Solution of the medium problem -
-"Remove All Adjacent Duplicates in String II",
+Solution of the medium problem
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
+"Remove All Adjacent Duplicates in String II"
 """
 class Solution:
     def removeDuplicates(self, s: str, k: int) -> str:
@@ -30,4 +30,3 @@ class Solution:
                 counter.pop()
 
         return ''.join([char * cnt for char, cnt in counter])
-
