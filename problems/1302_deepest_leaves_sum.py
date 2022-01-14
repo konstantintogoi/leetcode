@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Deepest Leaves Sum",
+Solution of the medium problem
 https://leetcode.com/problems/deepest-leaves-sum/
+"Deepest Leaves Sum"
 """
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
@@ -64,4 +65,3 @@ class Solution:
                 queue.insert(0, (node.right, level + 1))
 
         return sums[-1]
-
