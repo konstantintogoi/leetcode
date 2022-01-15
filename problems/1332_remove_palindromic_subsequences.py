@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Remove Palindromic Subsequences",
+Solution of the easy problem
 https://leetcode.com/problems/remove-palindromic-subsequences/
+"Remove Palindromic Subsequences"
 """
 class Solution:
     def removePalindromeSub(self, s: str) -> int:
@@ -21,4 +22,3 @@ class Solution:
             if s[i] != s[n - 1 - i]:
                 return 2
         return 1 if n else 0
-
