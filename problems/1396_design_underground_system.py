@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Design Underground System",
+Solution of the medium problem
 https://leetcode.com/problems/design-underground-system/
+"Design Underground System"
 """
 class UndergroundSystem:
     """Underground System.
@@ -59,4 +60,3 @@ class UndergroundSystem:
 
     def getAverageTime(self, startStation: str, endStation: str) -> float:
         return self.averages[startStation, endStation][1]
-
