@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Kids With the Greatest Number of Candies",
+Solution of the easy problem
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+"Kids With the Greatest Number of Candies"
 """
 from typing import List
 
@@ -19,4 +20,3 @@ class Solution:
         """
         m = max(candies)
         return [False if c + extraCandies < m else True for c in candies]
-
