@@ -1,7 +1,7 @@
 """
-Solution of the medium problem -
-"Max Difference You Can Get From Changing an Integer",
+Solution of the medium problem
 https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/
+"Max Difference You Can Get From Changing an Integer"
 """
 class Solution:
     def maxDiff(self, num: int) -> int:
@@ -75,4 +75,3 @@ class Solution:
                 b += div * (10 ** i)
 
         return a - b
-
