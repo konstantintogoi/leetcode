@@ -1,7 +1,7 @@
 """
-Solution of the medium problem -
-"Check if a String Contains All Binary Codes of Size K",
+Solution of the medium problem
 https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
+"Check if a String Contains All Binary Codes of Size K"
 """
 class Solution:
     def hasAllCodes(self, s: str, k: int) -> bool:
@@ -20,4 +20,3 @@ class Solution:
 
         """
         return all((f'{{:0{k}b}}').format(i) in s for i in range(1 << k))
-
