@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Minimum Operations to Make Array Equal",
+Solution of the medium problem
 https://leetcode.com/problems/minimum-operations-to-make-array-equal/
+"Minimum Operations to Make Array Equal"
 """
 class Solution:
     def minOperations(self, n: int) -> int:
@@ -31,4 +32,3 @@ class Solution:
         a = n // 2
         b = a + n % 2
         return a * b
-
