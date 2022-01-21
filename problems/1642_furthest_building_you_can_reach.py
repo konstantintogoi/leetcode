@@ -1,6 +1,7 @@
 """
-Solution of the medium problem - "Furthest Building You Can Reach",
+Solution of the medium problem
 https://leetcode.com/problems/furthest-building-you-can-reach/
+"Furthest Building You Can Reach"
 """
 from heapq import heappop, heappush
 from typing import List
@@ -42,4 +43,3 @@ class Solution:
                 return i
 
         return len(heights) - 1
-
