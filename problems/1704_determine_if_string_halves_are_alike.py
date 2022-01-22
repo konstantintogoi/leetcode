@@ -1,6 +1,7 @@
 """
-Solution of the easy problem - "Determine if String Halves Are Alike",
+Solution of the easy problem
 https://leetcode.com/problems/determine-if-string-halves-are-alike/
+"Determine if String Halves Are Alike"
 """
 class Solution:
     def halvesAreAlike(self, s: str) -> bool:
@@ -23,4 +24,3 @@ class Solution:
             if c in "aeiouAEIOU":
                 cnt += 1 if i < half else -1 
         return cnt == 0
-
