@@ -1,6 +1,7 @@
 """
-Solution of the medium problem "Swapping Nodes in a Linked List",
+Solution of the medium problem
 https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+"Swapping Nodes in a Linked List"
 """
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -55,4 +56,3 @@ class Solution:
         first.next.next, second.next.next = second.next.next, first.next.next
 
         return root.next
-
