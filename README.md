@@ -84,6 +84,7 @@ python -m doctest 0001_two_sum.py
 |  287 | Medium     | Find the Duplicate Number                               |
 |  278 | Easy       | First Bad Version                                       |
 |  268 | Easy       | Missing Number                                          |
+|  263 | Easy       | Ugly Number                                             |
 |  246 | Easy       | Strobogrammatic Number                                  |
 |  234 | Easy       | Palindrome Linked List                                  |
 |  191 | Easy       | Number of 1 Bits                                        |
