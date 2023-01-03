@@ -18,6 +18,7 @@ python -m doctest 0001_two_sum.py
 
 |    # | Difficulty | Problem                                                 |
 | ---- | ---------- | ------------------------------------------------------- |
+| 2244 | Medium     | Minimum Rounds to Complete All Tasks                    |
 | 1721 | Medium     | Swapping Nodes in a Linked List                         |
 | 1704 | Easy       | Determine if String Halves Are Alike                    |
 | 1642 | Medium     | Furthest Building You Can Reach                         |
