@@ -39,6 +39,7 @@ python -m doctest 0001_two_sum.py
 |  970 | Medium     | Powerful Integers                                       |
 |  966 | Medium     | Vower Spellchecker                                      |
 |  953 | Easy       | Verifying an Alien Dictionary                           |
+|  944 | Easy       | Delete Columns to Make Sorted                           |
 |  936 | Hard       | Stamping The Sequence                                   |
 |  923 | Medium     | 3Sum With Multiplicity                                  |
 |  916 | Medium     | Word Subsets                                            |
