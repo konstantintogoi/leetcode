@@ -71,6 +71,7 @@ python -m doctest 0001_two_sum.py
 |  509 | Easy       | Fibonacci Number                                        |
 |  478 | Medium     | Generate Random Point in a Circle                       |
 |  474 | Medium     | Ones and Zeroes                                         |
+|  452 | Medium     | Minimum Number of Arrows to Burst Balloons              |
 |  423 | Medium     | Reconstruct Original Digits from English                |
 |  417 | Medium     | Pacific Atlantic Water Flow                             |
 |  416 | Medium     | Partition Equal Subset Sum                              |
