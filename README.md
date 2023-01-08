@@ -100,6 +100,7 @@ python -m doctest 0001_two_sum.py
 |  160 | Easy       | Intersection of Two Linked Lists                        |
 |  154 | Hard       | Find Minimum in Rotated Sorted Array II                 |
 |  153 | Medium     | Find Minimum in Rotated Sorted Array                    |
+|  149 | Hard       | Max Points on a Line                                    |
 |  134 | Medium     | Gas Station                                             |
 |  120 | Medium     | Triangle                                                |
 |  112 | Easy       | Path Sum                                                |
