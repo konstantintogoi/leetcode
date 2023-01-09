@@ -25,6 +25,7 @@ python -m doctest 0001_two_sum.py
 | 1642 | Medium     | Furthest Building You Can Reach                         |
 | 1551 | Medium     | Minimum Operations to Make Array Equal                  |
 | 1461 | Medium     | Check If a String Contains All Binary Codes of Size K   |
+| 1443 | Medium     | Minimum Time to Collect All Apples in a Tree            |
 | 1432 | Medium     | Max Difference You Can Get From Changing an Integer     |
 | 1431 | Easy       | Kids With the Greatest Number of Candies                |
 | 1396 | Medium     | Design Underground System                               |
