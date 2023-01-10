@@ -24,6 +24,7 @@ python -m doctest 0001_two_sum.py
 | 1704 | Easy       | Determine if String Halves Are Alike                    |
 | 1642 | Medium     | Furthest Building You Can Reach                         |
 | 1551 | Medium     | Minimum Operations to Make Array Equal                  |
+| 1519 | Medium     | Number of Nodes in the Sub-Tree With the Same Label     |
 | 1461 | Medium     | Check If a String Contains All Binary Codes of Size K   |
 | 1443 | Medium     | Minimum Time to Collect All Apples in a Tree            |
 | 1432 | Medium     | Max Difference You Can Get From Changing an Integer     |
