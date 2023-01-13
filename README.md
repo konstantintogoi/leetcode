@@ -18,6 +18,7 @@ python -m doctest 0001_two_sum.py
 
 |    # | Difficulty | Problem                                                 |
 | ---- | ---------- | ------------------------------------------------------- |
+| 2421 | Hard       | Number of Good Paths                                    |
 | 2246 | Hard       | Longest Path With Different Adjacent Characters         |
 | 2244 | Medium     | Minimum Rounds to Complete All Tasks                    |
 | 1833 | Medium     | Maximum Ice Cream Bars                                  |
