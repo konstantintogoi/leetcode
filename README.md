@@ -48,6 +48,7 @@ python -m doctest 0001_two_sum.py
 |  953 | Easy       | Verifying an Alien Dictionary                           |
 |  944 | Easy       | Delete Columns to Make Sorted                           |
 |  936 | Hard       | Stamping The Sequence                                   |
+|  926 | Medium     | Flip String to Monotone Increasing                      |
 |  923 | Medium     | 3Sum With Multiplicity                                  |
 |  916 | Medium     | Word Subsets                                            |
 |  870 | Medium     | Advantage Shuffle                                       |
