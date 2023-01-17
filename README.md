@@ -50,6 +50,7 @@ python -m doctest 0001_two_sum.py
 |  936 | Hard       | Stamping The Sequence                                   |
 |  926 | Medium     | Flip String to Monotone Increasing                      |
 |  923 | Medium     | 3Sum With Multiplicity                                  |
+|  918 | Medium     | Maximum Sum Circular Subarray                           |
 |  916 | Medium     | Word Subsets                                            |
 |  870 | Medium     | Advantage Shuffle                                       |
 |  869 | Medium     | Reordered Power of 2                                    |
