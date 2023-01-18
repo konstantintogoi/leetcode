@@ -42,6 +42,7 @@ python -m doctest 0001_two_sum.py
 | 1074 | Hard       | Number of Submatrices That Sum to Target                |
 | 1061 | Medium     | Lexicographically Smallest Equivalent String            |
 |  993 | Easy       | Cousins in Binary Tree                                  |
+|  974 | Medium     | Subarray Sums Divisible by K                            |
 |  971 | Medium     | Flip Binary Tree To Match Preorder Traversal            |
 |  970 | Medium     | Powerful Integers                                       |
 |  966 | Medium     | Vower Spellchecker                                      |
