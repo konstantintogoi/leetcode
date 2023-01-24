@@ -21,6 +21,7 @@ python -m doctest 0001_two_sum.py
 | 2421 | Hard       | Number of Good Paths                                    |
 | 2246 | Hard       | Longest Path With Different Adjacent Characters         |
 | 2244 | Medium     | Minimum Rounds to Complete All Tasks                    |
+| 2359 | Medium     | Find Closest Node to Given Two Nodes                    |
 | 1833 | Medium     | Maximum Ice Cream Bars                                  |
 | 1721 | Medium     | Swapping Nodes in a Linked List                         |
 | 1704 | Easy       | Determine if String Halves Are Alike                    |
