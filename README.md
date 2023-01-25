@@ -61,6 +61,7 @@ python -m doctest 0001_two_sum.py
 |  841 | Medium     | Keys and Rooms                                          |
 |  823 | Medium     | Binary Trees With Factors                               |
 |  820 | Medium     | Short Encoding of Words                                 |
+|  787 | Medium     | Cheapest Flights Within K Stops                         |
 |  775 | Medium     | Global and Local Inversions                             |
 |  744 | Easy       | Find Smallest Letter Greater Than Target                |
 |  714 | Medium     | Best Time to Buy and Sell Stock with Transaction Fee    |
