@@ -85,6 +85,7 @@ python -m doctest 0001_two_sum.py
 |  491 | Medium     | Non-decreasing Subsequences                             |
 |  478 | Medium     | Generate Random Point in a Circle                       |
 |  474 | Medium     | Ones and Zeroes                                         |
+|  472 | Hard       | Concatenated Words                                      |
 |  452 | Medium     | Minimum Number of Arrows to Burst Balloons              |
 |  423 | Medium     | Reconstruct Original Digits from English                |
 |  417 | Medium     | Pacific Atlantic Water Flow                             |
