@@ -94,6 +94,7 @@ python -m doctest 0001_two_sum.py
 |  374 | Easy       | Guess Number Higher or Lower                            |
 |  367 | Easy       | Valid Perfect Square                                    |
 |  354 | Hard       | Russian Doll Envelopes                                  |
+|  352 | Hard       | Data Stream as Disjoint Intervals                       |
 |  350 | Easy       | Intersection of Two Arrays II                           |
 |  349 | Easy       | Intersection of Two Arrays                              |
 |  341 | Medium     | Flatten Nested List Iterator                            |
