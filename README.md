@@ -26,6 +26,7 @@ python -m doctest 0001_two_sum.py
 | 1721 | Medium     | Swapping Nodes in a Linked List                         |
 | 1704 | Easy       | Determine if String Halves Are Alike                    |
 | 1642 | Medium     | Furthest Building You Can Reach                         |
+| 1626 | Medium     | Best Team With No Conflicts                             |
 | 1551 | Medium     | Minimum Operations to Make Array Equal                  |
 | 1519 | Medium     | Number of Nodes in the Sub-Tree With the Same Label     |
 | 1461 | Medium     | Check If a String Contains All Binary Codes of Size K   |
