@@ -92,6 +92,7 @@ python -m doctest 0001_two_sum.py
 |  423 | Medium     | Reconstruct Original Digits from English                |
 |  417 | Medium     | Pacific Atlantic Water Flow                             |
 |  416 | Medium     | Partition Equal Subset Sum                              |
+|  412 | Easy       | Fizz Buzz                                               |
 |  376 | Medium     | Wiggle Subsequence                                      |
 |  374 | Easy       | Guess Number Higher or Lower                            |
 |  367 | Easy       | Valid Perfect Square                                    |
