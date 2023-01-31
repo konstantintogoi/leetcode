@@ -34,6 +34,7 @@ python -m doctest 0001_two_sum.py
 | 1432 | Medium     | Max Difference You Can Get From Changing an Integer     |
 | 1431 | Easy       | Kids With the Greatest Number of Candies                |
 | 1396 | Medium     | Design Underground System                               |
+| 1342 | Easy       | Number of Steps to Reduce a Number to Zero              |
 | 1332 | Easy       | Remove Palindromic Subsequences                         |
 | 1302 | Medium     | Deepest Leaves Sum                                      |
 | 1209 | Medium     | Remove All Adjacent Duplicates in String II             |
