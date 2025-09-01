@@ -23,6 +23,7 @@ python -m doctest 0001_two_sum.py
 | 2244 | Medium     | Minimum Rounds to Complete All Tasks                    |
 | 2359 | Medium     | Find Closest Node to Given Two Nodes                    |
 | 1833 | Medium     | Maximum Ice Cream Bars                                  |
+| 1792 | Medium     | Maximum Average Pass Ratio                              |
 | 1721 | Medium     | Swapping Nodes in a Linked List                         |
 | 1704 | Easy       | Determine if String Halves Are Alike                    |
 | 1642 | Medium     | Furthest Building You Can Reach                         |
