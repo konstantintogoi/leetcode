@@ -18,6 +18,7 @@ python -m doctest 0001_two_sum.py
 
 |    # | Difficulty | Problem                                                 |
 | ---- | ---------- | ------------------------------------------------------- |
+| 3516 | Easy       | Find Closest Person                                     |
 | 3027 | Hard       | Find the Number of Ways to Place People II              |
 | 3025 | Medium     | Find the Number of Ways to Place People I               |
 | 2421 | Hard       | Number of Good Paths                                    |
