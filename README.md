@@ -21,6 +21,7 @@ python -m doctest 0001_two_sum.py
 | 3516 | Easy       | Find Closest Person                                     |
 | 3027 | Hard       | Find the Number of Ways to Place People II              |
 | 3025 | Medium     | Find the Number of Ways to Place People I               |
+| 2749 | Medium     | Minimum Operations to Make the Integer Zero             |
 | 2421 | Hard       | Number of Good Paths                                    |
 | 2246 | Hard       | Longest Path With Different Adjacent Characters         |
 | 2244 | Medium     | Minimum Rounds to Complete All Tasks                    |
