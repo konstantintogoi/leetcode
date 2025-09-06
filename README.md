@@ -19,6 +19,7 @@ python -m doctest 0001_two_sum.py
 |    # | Difficulty | Problem                                                 |
 | ---- | ---------- | ------------------------------------------------------- |
 | 3516 | Easy       | Find Closest Person                                     |
+| 3495 | Hard       | Minimum Operations to Make Array Elements               |
 | 3027 | Hard       | Find the Number of Ways to Place People II              |
 | 3025 | Medium     | Find the Number of Ways to Place People I               |
 | 2749 | Medium     | Minimum Operations to Make the Integer Zero             |
