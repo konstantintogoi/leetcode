@@ -152,6 +152,7 @@ python -m doctest 0001_two_sum.py
 |   63 | Medium     | Unique Paths II                                         |
 |   58 | Easy       | Length of Last Word                                     |
 |   57 | Medium     | Insert Interval                                         |
+|   54 | Medium     | Spiral Matrix                                           |
 |   53 | Easy       | Maximum Subarray                                        |
 |   52 | Hard       | N-Queens II                                             |
 |   51 | Hard       | N-Queens                                                |
