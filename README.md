@@ -27,6 +27,7 @@ python -m doctest 0001_two_sum.py
 | 2246 | Hard       | Longest Path With Different Adjacent Characters         |
 | 2244 | Medium     | Minimum Rounds to Complete All Tasks                    |
 | 2359 | Medium     | Find Closest Node to Given Two Nodes                    |
+| 2327 | Medium     | Number of People Aware of a Secret                      |
 | 1833 | Medium     | Maximum Ice Cream Bars                                  |
 | 1792 | Medium     | Maximum Average Pass Ratio                              |
 | 1721 | Medium     | Swapping Nodes in a Linked List                         |
