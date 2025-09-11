@@ -22,6 +22,7 @@ python -m doctest 0001_two_sum.py
 | 3495 | Hard       | Minimum Operations to Make Array Elements               |
 | 3027 | Hard       | Find the Number of Ways to Place People II              |
 | 3025 | Medium     | Find the Number of Ways to Place People I               |
+| 2785 | Medium     | Sort Vowels in a String                                 |
 | 2749 | Medium     | Minimum Operations to Make the Integer Zero             |
 | 2421 | Hard       | Number of Good Paths                                    |
 | 2246 | Hard       | Longest Path With Different Adjacent Characters         |
