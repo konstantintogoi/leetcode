@@ -154,6 +154,7 @@ python -m doctest 0001_two_sum.py
 |   63 | Medium     | Unique Paths II                                         |
 |   58 | Easy       | Length of Last Word                                     |
 |   57 | Medium     | Insert Interval                                         |
+|   56 | Medium     | Merge Intervals                                         |
 |   55 | Medium     | Jump Game                                               |
 |   54 | Medium     | Spiral Matrix                                           |
 |   53 | Easy       | Maximum Subarray                                        |
