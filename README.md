@@ -152,6 +152,7 @@ python -m doctest 0001_two_sum.py
 |   67 | Easy       | Add Binary                                              |
 |   66 | Easy       | Plus One                                                |
 |   63 | Medium     | Unique Paths II                                         |
+|   59 | Medium     | Spiral Matrix II                                        |
 |   58 | Easy       | Length of Last Word                                     |
 |   57 | Medium     | Insert Interval                                         |
 |   56 | Medium     | Merge Intervals                                         |
