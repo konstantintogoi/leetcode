@@ -152,6 +152,7 @@ python -m doctest 0001_two_sum.py
 |   67 | Easy       | Add Binary                                              |
 |   66 | Easy       | Plus One                                                |
 |   63 | Medium     | Unique Paths II                                         |
+|   62 | Medium     | Unique Paths                                            |
 |   61 | Medium     | Rotate List                                             |
 |   60 | Hard       | Permutation Sequence                                    |
 |   59 | Medium     | Spiral Matrix II                                        |
