@@ -151,6 +151,7 @@ python -m doctest 0001_two_sum.py
 |   69 | Easy       | Sqrt(x)                                                 |
 |   67 | Easy       | Add Binary                                              |
 |   66 | Easy       | Plus One                                                |
+|   65 | Hard       | Valid Number                                            |
 |   64 | Medium     | Minimum Path Sum                                        |
 |   63 | Medium     | Unique Paths II                                         |
 |   62 | Medium     | Unique Paths                                            |
