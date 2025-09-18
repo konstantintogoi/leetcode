@@ -149,6 +149,7 @@ python -m doctest 0001_two_sum.py
 |   83 | Easy       | Remove Duplicates from Sorted List                      |
 |   70 | Easy       | Climbing Stairs                                         |
 |   69 | Easy       | Sqrt(x)                                                 |
+|   68 | Hard       | Text Justification                                      |
 |   67 | Easy       | Add Binary                                              |
 |   66 | Easy       | Plus One                                                |
 |   65 | Hard       | Valid Number                                            |
