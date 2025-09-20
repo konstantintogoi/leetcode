@@ -147,6 +147,7 @@ python -m doctest 0001_two_sum.py
 |   88 | Easy       | Merge Sorted Array                                      |
 |   86 | Medium     | Partition List                                          |
 |   83 | Easy       | Remove Duplicates from Sorted List                      |
+|   71 | Medium     | Simplify Path                                           |
 |   70 | Easy       | Climbing Stairs                                         |
 |   69 | Easy       | Sqrt(x)                                                 |
 |   68 | Hard       | Text Justification                                      |
