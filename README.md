@@ -147,6 +147,7 @@ python -m doctest 0001_two_sum.py
 |   88 | Easy       | Merge Sorted Array                                      |
 |   86 | Medium     | Partition List                                          |
 |   83 | Easy       | Remove Duplicates from Sorted List                      |
+|   74 | Medium     | Search a 2D Matrix                                      |
 |   73 | Medium     | Set Matrix Zeroes                                       |
 |   72 | Medium     | Edit Distance                                           |
 |   71 | Medium     | Simplify Path                                           |
