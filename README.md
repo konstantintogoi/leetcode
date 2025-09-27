@@ -147,6 +147,7 @@ python -m doctest 0001_two_sum.py
 |   88 | Easy       | Merge Sorted Array                                      |
 |   86 | Medium     | Partition List                                          |
 |   83 | Easy       | Remove Duplicates from Sorted List                      |
+|   78 | Medium     | Subsets                                                 |
 |   77 | Medium     | Combinations                                            |
 |   76 | Hard       | Minimum Window Substring                                |
 |   75 | Medium     | Sort Colors                                             |
