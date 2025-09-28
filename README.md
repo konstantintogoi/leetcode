@@ -148,6 +148,7 @@ python -m doctest 0001_two_sum.py
 |   86 | Medium     | Partition List                                          |
 |   83 | Easy       | Remove Duplicates from Sorted List                      |
 |   82 | Medium     | Remove Duplicates from Sorted List II                   |
+|   79 | Medium     | Word Search                                             |
 |   78 | Medium     | Subsets                                                 |
 |   77 | Medium     | Combinations                                            |
 |   76 | Hard       | Minimum Window Substring                                |
