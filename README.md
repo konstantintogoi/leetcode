@@ -152,6 +152,7 @@ python -m doctest 0001_two_sum.py
 |   89 | Medium     | Gray Code                                               |
 |   88 | Easy       | Merge Sorted Array                                      |
 |   86 | Medium     | Partition List                                          |
+|   84 | Hard       | Largest Rectangle in Histogram                          |
 |   83 | Easy       | Remove Duplicates from Sorted List                      |
 |   82 | Medium     | Remove Duplicates from Sorted List II                   |
 |   81 | Medium     | Search in Rotated Sorted Array II                       |
