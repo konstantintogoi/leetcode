@@ -152,6 +152,7 @@ python -m doctest 0001_two_sum.py
 |   90 | Medium     | Subsets II                                              |
 |   89 | Medium     | Gray Code                                               |
 |   88 | Easy       | Merge Sorted Array                                      |
+|   87 | Hard       | Scramble String                                         |
 |   86 | Medium     | Partition List                                          |
 |   85 | Hard       | Maximal Rectangle                                       |
 |   84 | Hard       | Largest Rectangle in Histogram                          |
