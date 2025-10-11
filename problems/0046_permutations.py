@@ -8,7 +8,7 @@ from typing import List
 
 class Solution:
     def permute(self, nums: List[int], memo = None) -> List[List[int]]:
-        """Permute.
+        """Given an array `nums`, return all the possible permutations.
 
         >>> Solution().permute([1, 2, 3])
         [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1]]
@@ -18,22 +18,19 @@ class Solution:
         [[1]]
 
         """
-        if len(nums) == 1:
-            return [nums]
+        perms = []
 
-        if memo is None:
-            memo = {}
-            nums = tuple(nums)
+        def perm(p):
+            if len(p) == len(nums):
+                perms.append(p.copy())
+                return
 
-        if nums in memo:
-            return memo[nums]
+            for i in range(len(nums)):
+                if nums[i] not in p:
+                    p.append(nums[i])
+                    perm(p)
+                    p.pop()
 
-        permutations = []
+        perm([])
+        return perms
 
-        for i, num in enumerate(nums):
-            subnums = nums[:i] + nums[i + 1:]
-            for permutation in self.permute(subnums):
-                permutations.append([num, *permutation])
-
-        memo[nums] = permutations
-        return permutations
