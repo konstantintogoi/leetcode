@@ -25,33 +25,24 @@ class Solution:
         83
 
         """
-        height.append(0)
-        height.insert(0, 0)
+        n = len(height)
+        decrstack = []
+        trapped = 0
 
-        peaks = []
-        for i in range(1, len(height) - 1):
-            if height[i - 1] <= height[i] and height[i] >= height[i + 1]:
-                peaks.append((i, height[i]))
+        for i in range(n):
+            while decrstack and height[decrstack[-1]] < height[i]:
+                iright = decrstack.pop()
+                bottomheight = height[iright]
 
-        npeaks = -1
-        while npeaks != len(peaks):
-            i = 1
-            npeaks = len(peaks)
-            while i < len(peaks) - 1:
-                if peaks[i - 1][1] >= peaks[i][1] and peaks[i][1] <= peaks[i + 1][1]:
-                    del peaks[i]
-                else:
-                    i += 1
+                ileft = decrstack[-1] if decrstack else iright
+                topheight = min(height[ileft], height[i])
 
-        intervals = {}
-        for i, ((l, lpeak), (r, rpeak)) in enumerate(zip(peaks, peaks[1:])):
-            minpeak = min(lpeak, rpeak)
-            intervals[l, r] = minpeak
+                trapped += (i - ileft - 1) * (topheight - bottomheight)
 
-        cnt = 0
-        for (l, r), h in intervals.items():
-            for i in range(l, r):
-                diff = max(0, h - height[i])
-                cnt += diff
+            while decrstack and height[decrstack[-1]] == height[i]:
+                decrstack.pop()
 
-        return cnt
+            decrstack.append(i)
+
+        return trapped
+
