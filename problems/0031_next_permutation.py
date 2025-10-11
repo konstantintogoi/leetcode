@@ -8,7 +8,7 @@ from typing import List
 
 class Solution:
     def nextPermutation(self, nums: List[int]) -> None:
-        """Next Permutation.
+        """Return the next permutation of `nums`.
 
         >>> nums = [2, 3, 1]
         >>> Solution().nextPermutation(nums)
@@ -35,23 +35,18 @@ class Solution:
         >>> nums
         [1]
         """
-        l = 0
-        r = len(nums) - 1
-        reverse = True
-        for i in range(len(nums) - 1, 0, -1):
-            if nums[i] > nums[i - 1]:
-                reverse = False
-                l = j = i
-                for k in range(i, len(nums)):
-                    if nums[k] > nums[i - 1]:
-                        j = k
-                    else:
-                        break
-                nums[i - 1], nums[j] = nums[j], nums[i - 1]
-                break
+        i = len(nums) - 2
+        while i >= 0 and nums[i] >= nums[i + 1]:
+            i -= 1
 
-        if reverse: l = 0
-        while l < r:
-            nums[l], nums[r] = nums[r], nums[l]
-            l += 1
-            r -= 1
+        if i == -1:
+            nums.reverse()
+            return
+
+        j = len(nums) - 1
+        while j > 0 and nums[i] >= nums[j]:
+            j -= 1
+
+        nums[i], nums[j] = nums[j], nums[i]
+        nums[i + 1:] = reversed(nums[i + 1:])
+
