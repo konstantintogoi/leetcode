@@ -145,6 +145,7 @@ python -m doctest 0001_two_sum.py
 |  101 | Easy       | Symmetric Tree                                          |
 |  100 | Easy       | Same Tree                                               |
 |   97 | Medium     | Interleaving String                                     |
+|   96 | Medium     | Unique Binary Search Trees                              |
 |   95 | Medium     | Unique Binary Search Trees II                           |
 |   94 | Medium     | Binary Tree Inorder Traversal                           |
 |   93 | Medium     | Restore IP Addresses                                    |
