@@ -144,6 +144,7 @@ python -m doctest 0001_two_sum.py
 |  104 | Easy       | Maximum Depth of Binary Tree                            |
 |  101 | Easy       | Symmetric Tree                                          |
 |  100 | Easy       | Same Tree                                               |
+|   99 | Medium     | Recover Binary Search Tree                              |
 |   98 | Medium     | Validate Binary Search Tree                             |
 |   97 | Medium     | Interleaving String                                     |
 |   96 | Medium     | Unique Binary Search Trees                              |
