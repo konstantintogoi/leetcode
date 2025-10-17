@@ -142,6 +142,7 @@ python -m doctest 0001_two_sum.py
 |  110 | Easy       | Balanced Binary Tree                                    |
 |  108 | Easy       | Convert Sorted Array to Binary Search Tree              |
 |  104 | Easy       | Maximum Depth of Binary Tree                            |
+|  103 | Medium     | Binary Tree Zigzag Level Order Traversal                |
 |  102 | Medium     | Binary Tree Level Order Traversal                       |
 |  101 | Easy       | Symmetric Tree                                          |
 |  100 | Easy       | Same Tree                                               |
