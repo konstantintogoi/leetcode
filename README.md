@@ -136,6 +136,7 @@ python -m doctest 0001_two_sum.py
 |  144 | Easy   | Binary Tree Preorder Traversal                              |
 |  134 | Medium | Gas Station                                                 |
 |  131 | Medium | Palindrome Partitioning                                     |
+|  125 | Easy   | Valid Palindrome                                            |
 |  120 | Medium | Triangle                                                    |
 |  112 | Easy   | Path Sum                                                    |
 |  111 | Easy   | Minimum Depth of Binary Tree                                |
