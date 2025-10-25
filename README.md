@@ -132,6 +132,7 @@ python -m doctest 0001_two_sum.py
 |  160 | Easy   | Intersection of Two Linked Lists                            |
 |  154 | Hard   | Find Minimum in Rotated Sorted Array II                     |
 |  153 | Medium | Find Minimum in Rotated Sorted Array                        |
+|  150 | Medium | Evaluate Reverse Polish Notation                            |
 |  149 | Hard   | Max Points on a Line                                        |
 |  146 | Medium | LRU Cache                                                   |
 |  144 | Easy   | Binary Tree Preorder Traversal                              |
