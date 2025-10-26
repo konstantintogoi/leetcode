@@ -127,6 +127,7 @@ python -m doctest 0001_two_sum.py
 |  191 | Easy   | Number of 1 Bits                                            |
 |  169 | Easy   | Majority Element                                            |
 |  167 | Easy   | Two Sum II - Input array is sorted                          |
+|  166 | Medium | Fraction to Recurring Decimal                               |
 |  165 | Medium | Compare Version Numbers                                     |
 |  162 | Medium | Find Peak Element                                           |
 |  160 | Easy   | Intersection of Two Linked Lists                            |
