@@ -124,6 +124,7 @@ python -m doctest 0001_two_sum.py
 |  263 | Easy   | Ugly Number                                                 |
 |  246 | Easy   | Strobogrammatic Number                                      |
 |  234 | Easy   | Palindrome Linked List                                      |
+|  193 | Easy   | Valid Phone Numbers                                         |
 |  191 | Easy   | Number of 1 Bits                                            |
 |  169 | Easy   | Majority Element                                            |
 |  167 | Easy   | Two Sum II - Input array is sorted                          |
