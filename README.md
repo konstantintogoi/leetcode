@@ -124,6 +124,7 @@ python -m doctest 0001_two_sum.py
 |  263 | Easy   | Ugly Number                                                 |
 |  246 | Easy   | Strobogrammatic Number                                      |
 |  234 | Easy   | Palindrome Linked List                                      |
+|  232 | Easy   | Implement Queue using Stacks                                |
 |  228 | Easy   | Summary ranges                                              |
 |  206 | Easy   | Reverse Linked List                                         |
 |  200 | Medium | Number of Islands                                           |
