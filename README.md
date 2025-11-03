@@ -119,6 +119,7 @@ python -m doctest 0001_two_sum.py
 |  322 | Medium | Coin Change                                                 |
 |  290 | Easy   | Word Pattern                                                |
 |  287 | Medium | Find the Duplicate Number                                   |
+|  283 | Easy   | Move Zeroes                                                 |
 |  279 | Medium | Perfect Squares                                             |
 |  278 | Easy   | First Bad Version                                           |
 |  268 | Easy   | Missing Number                                              |
