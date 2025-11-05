@@ -114,6 +114,7 @@ python -m doctest 0001_two_sum.py
 |  350 | Easy   | Intersection of Two Arrays II                               |
 |  349 | Easy   | Intersection of Two Arrays                                  |
 |  341 | Medium | Flatten Nested List Iterator                                |
+|  332 | Hard   | Reconstruct Itinerary                                       |
 |  329 | Hard   | Longest Increasing Path in a Matrix                         |
 |  326 | Easy   | Power of Three                                              |
 |  322 | Medium | Coin Change                                                 |
