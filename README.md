@@ -106,6 +106,7 @@ python -m doctest 0001_two_sum.py
 |  417 | Medium | Pacific Atlantic Water Flow                                 |
 |  416 | Medium | Partition Equal Subset Sum                                  |
 |  412 | Easy   | Fizz Buzz                                                   |
+|  392 | Easy   | Is Subsequence                                              |
 |  383 | Easy   | Ransom Note                                                 |
 |  377 | Medium | Combination Sum IV                                          |
 |  376 | Medium | Wiggle Subsequence                                          |
