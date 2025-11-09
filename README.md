@@ -105,6 +105,7 @@ python -m doctest 0001_two_sum.py
 |  423 | Medium | Reconstruct Original Digits from English                    |
 |  417 | Medium | Pacific Atlantic Water Flow                                 |
 |  416 | Medium | Partition Equal Subset Sum                                  |
+|  414 | Easy   | Third Maximum Number                                        |
 |  412 | Easy   | Fizz Buzz                                                   |
 |  407 | Hard   | Trapping Rain Water II                                      |
 |  392 | Easy   | Is Subsequence                                              |
