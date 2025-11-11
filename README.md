@@ -102,6 +102,7 @@ python -m doctest 0001_two_sum.py
 |  472 | Hard   | Concatenated Words                                          |
 |  460 | Hard   | LFU Cache                                                   |
 |  452 | Medium | Minimum Number of Arrows to Burst Balloons                  |
+|  424 | Medium | Longest Repeating Character Replacement                     |
 |  423 | Medium | Reconstruct Original Digits from English                    |
 |  417 | Medium | Pacific Atlantic Water Flow                                 |
 |  416 | Medium | Partition Equal Subset Sum                                  |
