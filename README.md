@@ -2,7 +2,7 @@
 
 Solutions of LeetCode's problems.
 
-Author: https://leetcode.com/TheKoStiG/
+Author: https://leetcode.com/notkonstantin/
 
 #### Run tests
 
