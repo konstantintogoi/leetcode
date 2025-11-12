@@ -97,6 +97,7 @@ python -m doctest 0001_two_sum.py
 |  520 | Easy   | Detect Capital                                              |
 |  509 | Easy   | Fibonacci Number                                            |
 |  491 | Medium | Non-decreasing Subsequences                                 |
+|  485 | Easy   | Max Consecutive Ones                                        |
 |  478 | Medium | Generate Random Point in a Circle                           |
 |  474 | Medium | Ones and Zeroes                                             |
 |  472 | Hard   | Concatenated Words                                          |
