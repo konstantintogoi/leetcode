@@ -90,6 +90,7 @@ python -m doctest 0001_two_sum.py
 |  637 | Easy   | Average of Levels in Binary Tree                            |
 |  623 | Medium | Add One Row to Tree                                         |
 |  622 | Medium | Design Circular Queue                                       |
+|  589 | Easy   | N-ary Tree Preorder Traversal                               |
 |  575 | Easy   | Distribute Candies                                          |
 |  554 | Medium | Brick Wall                                                  |
 |  536 | Medium | Construct Binary Tree from String                           |
