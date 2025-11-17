@@ -75,6 +75,7 @@ python -m doctest 0001_two_sum.py
 |  841 | Medium | Keys and Rooms                                              |
 |  823 | Medium | Binary Trees With Factors                                   |
 |  820 | Medium | Short Encoding of Words                                     |
+|  812 | Easy   | Largest Triangle Area                                       |
 |  787 | Medium | Cheapest Flights Within K Stops                             |
 |  778 | Hard   | Swim in Rising Water                                        |
 |  775 | Medium | Global and Local Inversions                                 |
