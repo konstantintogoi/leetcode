@@ -70,6 +70,7 @@ python -m doctest 0001_two_sum.py
 |  918 | Medium | Maximum Sum Circular Subarray                               |
 |  916 | Medium | Word Subsets                                                |
 |  909 | Medium | Snakes and Ladders                                          |
+|  905 | Easy   | Sort Array By Parity                                        |
 |  876 | Easy   | Middle of the Linked List                                   |
 |  870 | Medium | Advantage Shuffle                                           |
 |  869 | Medium | Reordered Power of 2                                        |
