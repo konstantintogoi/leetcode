@@ -64,6 +64,7 @@ python -m doctest 0001_two_sum.py
 |  966 | Medium | Vower Spellchecker                                          |
 |  953 | Easy   | Verifying an Alien Dictionary                               |
 |  944 | Easy   | Delete Columns to Make Sorted                               |
+|  941 | Easy   | Valid Mountain Array                                        |
 |  936 | Hard   | Stamping The Sequence                                       |
 |  933 | Easy   | Number of Recent Calls                                      |
 |  926 | Medium | Flip String to Monotone Increasing                          |
