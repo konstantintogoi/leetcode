@@ -58,6 +58,7 @@ python -m doctest 0001_two_sum.py
 | 1061 | Medium | Lexicographically Smallest Equivalent String                |
 |  997 | Easy   | Find the Town Judge                                         |
 |  993 | Easy   | Cousins in Binary Tree                                      |
+|  976 | Easy   | Largest Perimeter Triangle                                  |
 |  974 | Medium | Subarray Sums Divisible by K                                |
 |  971 | Medium | Flip Binary Tree To Match Preorder Traversal                |
 |  970 | Medium | Powerful Integers                                           |
