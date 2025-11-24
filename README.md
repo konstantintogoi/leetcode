@@ -56,6 +56,7 @@ python -m doctest 0001_two_sum.py
 | 1136 | Medium | Parallel Courses                                            |
 | 1074 | Hard   | Number of Submatrices That Sum to Target                    |
 | 1061 | Medium | Lexicographically Smallest Equivalent String                |
+| 1039 | Medium | Minimum Score Triangulation of Polygon                      |
 |  997 | Easy   | Find the Town Judge                                         |
 |  993 | Easy   | Cousins in Binary Tree                                      |
 |  977 | Easy   | Squares of a Sorted Array                                   |
