@@ -54,6 +54,7 @@ python -m doctest 0001_two_sum.py
 | 1165 | Easy   | Single-Row Keyboard                                         |
 | 1137 | Easy   | N-th Tribonacci Number                                      |
 | 1136 | Medium | Parallel Courses                                            |
+| 1133 | Easy   | Largest Unique Number                                       |
 | 1089 | Easy   | Duplicate Zeros                                             |
 | 1074 | Hard   | Number of Submatrices That Sum to Target                    |
 | 1061 | Medium | Lexicographically Smallest Equivalent String                |
