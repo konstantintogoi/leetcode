@@ -48,6 +48,7 @@ python -m doctest 0001_two_sum.py
 | 1317 | Easy   | Convert Integer to the Sum of Two No-Zero Integers          |
 | 1304 | Easy   | Find N Unique Integers Sum up to Zero                       |
 | 1302 | Medium | Deepest Leaves Sum                                          |
+| 1299 | Easy   | Replace Elements with Greatest Element on Right Side        |
 | 1295 | Easy   | Find Numbers with Even Number of Digits                     |
 | 1209 | Medium | Remove All Adjacent Duplicates in String II                 |
 | 1198 | Medium | Find Smallest Common Element in All Rows                    |
