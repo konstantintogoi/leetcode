@@ -38,6 +38,7 @@ python -m doctest 0001_two_sum.py
 | 1626 | Medium | Best Team With No Conflicts                                 |
 | 1551 | Medium | Minimum Operations to Make Array Equal                      |
 | 1519 | Medium | Number of Nodes in the Sub-Tree With the Same Label         |
+| 1480 | Easy   | Running Sum of 1d Array                                     |
 | 1461 | Medium | Check If a String Contains All Binary Codes of Size K       |
 | 1443 | Medium | Minimum Time to Collect All Apples in a Tree                |
 | 1432 | Medium | Max Difference You Can Get From Changing an Integer         |
