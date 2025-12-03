@@ -38,6 +38,7 @@ python -m doctest 0001_two_sum.py
 | 1626 | Med. | Best Team With No Conflicts                                  |
 | 1551 | Med. | Minimum Operations to Make Array Equal                       |
 | 1519 | Med. | Number of Nodes in the Sub-Tree With the Same Label          |
+| 1488 | Med. | Avoid Flood in The City                                      |
 | 1480 | Easy | Running Sum of 1d Array                                      |
 | 1461 | Med. | Check If a String Contains All Binary Codes of Size K        |
 | 1443 | Med. | Minimum Time to Collect All Apples in a Tree                 |
