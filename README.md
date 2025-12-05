@@ -32,6 +32,7 @@ python -m doctest 0001_two_sum.py
 | 1912 | Hard | Design Movie Rental System                                   |
 | 1833 | Med. | Maximum Ice Cream Bars                                       |
 | 1792 | Med. | Maximum Average Pass Ratio                                   |
+| 1733 | Med. | Minimum Number of People to Teach                            |
 | 1721 | Med. | Swapping Nodes in a Linked List                              |
 | 1704 | Easy | Determine if String Halves Are Alike                         |
 | 1642 | Med. | Furthest Building You Can Reach                              |
