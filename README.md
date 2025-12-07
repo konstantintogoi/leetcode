@@ -29,6 +29,7 @@ python -m doctest 0001_two_sum.py
 | 2244 | Med. | Minimum Rounds to Complete All Tasks                         |
 | 2359 | Med. | Find Closest Node to Given Two Nodes                         |
 | 2327 | Med. | Number of People Aware of a Secret                           |
+| 2141 | Hard | Maximum Running Time of N Computers                          |
 | 1935 | Easy | Maximum Number of Words You Can Type                         |
 | 1912 | Hard | Design Movie Rental System                                   |
 | 1833 | Med. | Maximum Ice Cream Bars                                       |
