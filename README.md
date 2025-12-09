@@ -29,6 +29,7 @@ python -m doctest 0001_two_sum.py
 | 2244 | Med. | Minimum Rounds to Complete All Tasks                         |
 | 2359 | Med. | Find Closest Node to Given Two Nodes                         |
 | 2327 | Med. | Number of People Aware of a Secret                           |
+| 2221 | Med. | Find Triangular Sum of an Array                              |
 | 2197 | Hard | Replace Non-Coprime Numbers in Array                         |
 | 2141 | Hard | Maximum Running Time of N Computers                          |
 | 1935 | Easy | Maximum Number of Words You Can Type                         |
