@@ -25,6 +25,7 @@ python -m doctest 0001_two_sum.py
 | 2785 | Med. | Sort Vowels in a String                                      |
 | 2749 | Med. | Minimum Operations to Make the Integer Zero                  |
 | 2421 | Hard | Number of Good Paths                                         |
+| 2300 | Med. | Successful Pairs of Spells and Potions                       |
 | 2246 | Hard | Longest Path With Different Adjacent Characters              |
 | 2244 | Med. | Minimum Rounds to Complete All Tasks                         |
 | 2359 | Med. | Find Closest Node to Given Two Nodes                         |
