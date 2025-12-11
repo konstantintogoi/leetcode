@@ -159,6 +159,7 @@ python -m doctest 0001_two_sum.py
 |  279 | Med. | Perfect Squares                                              |
 |  278 | Easy | First Bad Version                                            |
 |  268 | Easy | Missing Number                                               |
+|  264 | Med. | Ugly Number II                                               |
 |  263 | Easy | Ugly Number                                                  |
 |  246 | Easy | Strobogrammatic Number                                       |
 |  238 | Easy | Product of Array Except Self                                 |
