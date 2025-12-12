@@ -102,6 +102,7 @@ python -m doctest 0001_two_sum.py
 |  778 | Hard | Swim in Rising Water                                         |
 |  775 | Med. | Global and Local Inversions                                  |
 |  744 | Easy | Find Smallest Letter Greater Than Target                     |
+|  728 | Easy | Self Dividing Numbers                                        |
 |  714 | Med. | Best Time to Buy and Sell Stock with Transaction Fee         |
 |  706 | Easy | Design HashMap                                               |
 |  704 | Easy | Binary Search                                                |
