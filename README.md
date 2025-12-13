@@ -72,6 +72,7 @@ python -m doctest 0001_two_sum.py
 | 1061 | Med. | Lexicographically Smallest Equivalent String                 |
 | 1051 | Easy | Height Checker                                               |
 | 1039 | Med. | Minimum Score Triangulation of Polygon                       |
+| 1015 | Med. | Smallest Integer Divisible by K                              |
 |  997 | Easy | Find the Town Judge                                          |
 |  993 | Easy | Cousins in Binary Tree                                       |
 |  977 | Easy | Squares of a Sorted Array                                    |
