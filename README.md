@@ -22,6 +22,7 @@ python -m doctest 0001_two_sum.py
 | 3495 | Hard | Minimum Operations to Make Array Elements                    |
 | 3027 | Hard | Find the Number of Ways to Place People II                   |
 | 3025 | Med. | Find the Number of Ways to Place People I                    |
+| 3005 | Easy | Count Elements With Maximum Frequency                        |
 | 2785 | Med. | Sort Vowels in a String                                      |
 | 2749 | Med. | Minimum Operations to Make the Integer Zero                  |
 | 2485 | Easy | Find the Pivot Integer                                       |
