@@ -20,6 +20,7 @@ python -m doctest 0001_two_sum.py
 | ---- | ---- | ------------------------------------------------------------ |
 | 3516 | Easy | Find Closest Person                                          |
 | 3495 | Hard | Minimum Operations to Make Array Elements                    |
+| 3100 | Med. | Water Bottles II                                             |
 | 3027 | Hard | Find the Number of Ways to Place People II                   |
 | 3025 | Med. | Find the Number of Ways to Place People I                    |
 | 3005 | Easy | Count Elements With Maximum Frequency                        |
