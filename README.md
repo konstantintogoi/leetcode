@@ -20,6 +20,7 @@ python -m doctest 0001_two_sum.py
 | ---- | ---- | ------------------------------------------------------------ |
 | 3516 | Easy | Find Closest Person                                          |
 | 3495 | Hard | Minimum Operations to Make Array Elements                    |
+| 3408 | Med. | Design Task Manager                                          |
 | 3227 | Med. | Vowels Game in a String                                      |
 | 3217 | Med. | Delete Nodes From Linked List Present in Array               |
 | 3100 | Med. | Water Bottles II                                             |
