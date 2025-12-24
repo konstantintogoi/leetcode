@@ -19,6 +19,7 @@ python -m doctest 0001_two_sum.py
 |    # | Diff.| Problem                                                      |
 | ---- | ---- | ------------------------------------------------------------ |
 | 3516 | Easy | Find Closest Person                                          |
+| 3508 | Med. | Implement Router                                             |
 | 3495 | Hard | Minimum Operations to Make Array Elements                    |
 | 3484 | Med. | Design Spreadsheet                                           |
 | 3408 | Med. | Design Task Manager                                          |
