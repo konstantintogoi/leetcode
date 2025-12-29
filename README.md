@@ -18,6 +18,7 @@ python -m doctest 0001_two_sum.py
 
 |    # | Diff.| Problem                                                      |
 | ---- | ---- | ------------------------------------------------------------ |
+| 3674 | Easy | Minimum Operations to Equalize Array                         |
 | 3625 | Hard | Count Number of Trapezoids II                                |
 | 3623 | Med. | Count Number of Trapezoids I                                 |
 | 3606 | Easy | Coupon Code Validator                                        |
