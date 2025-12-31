@@ -18,6 +18,7 @@ python -m doctest 0001_two_sum.py
 
 |    # | Diff.| Problem                                                      |
 | ---- | ---- | ------------------------------------------------------------ |
+| 3679 | Med. | Minimum Discards to Balance Inventory                        |
 | 3678 | Easy | Smallest Absent Positive Greater Than Average                |
 | 3674 | Easy | Minimum Operations to Equalize Array                         |
 | 3625 | Hard | Count Number of Trapezoids II                                |
