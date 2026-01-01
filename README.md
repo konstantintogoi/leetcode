@@ -49,6 +49,7 @@ python -m doctest 0001_two_sum.py
 | 2221 | Med. | Find Triangular Sum of an Array                              |
 | 2197 | Hard | Replace Non-Coprime Numbers in Array                         |
 | 2141 | Hard | Maximum Running Time of N Computers                          |
+| 1984 | Easy | Minimum Difference Between Highest and Lowest of K Scores    |
 | 1935 | Easy | Maximum Number of Words You Can Type                         |
 | 1912 | Hard | Design Movie Rental System                                   |
 | 1833 | Med. | Maximum Ice Cream Bars                                       |
