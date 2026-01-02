@@ -114,6 +114,7 @@ python -m doctest 0001_two_sum.py
 |  876 | Easy | Middle of the Linked List                                    |
 |  870 | Med. | Advantage Shuffle                                            |
 |  869 | Med. | Reordered Power of 2                                         |
+|  849 | Med. | Maximize Distance to Closest Person                          |
 |  841 | Med. | Keys and Rooms                                               |
 |  823 | Med. | Binary Trees With Factors                                    |
 |  820 | Med. | Short Encoding of Words                                      |
