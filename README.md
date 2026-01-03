@@ -47,6 +47,7 @@ python -m doctest 0001_two_sum.py
 | 2353 | Med. | Design a Food Rating System                                  |
 | 2327 | Med. | Number of People Aware of a Secret                           |
 | 2221 | Med. | Find Triangular Sum of an Array                              |
+| 2211 | Med. | Count Collisions on a Road                                   |
 | 2197 | Hard | Replace Non-Coprime Numbers in Array                         |
 | 2141 | Hard | Maximum Running Time of N Computers                          |
 | 1984 | Easy | Minimum Difference Between Highest and Lowest of K Scores    |
